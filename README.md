@@ -71,7 +71,7 @@
 [![DotWallet](https://img.shields.io/badge/-DotWallet-000?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wgARCAAYABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAYFAgf/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/9oADAMBAAIQAxAAAAH0vL60dSXSR6RtBPBjYiR3/8QAGxAAAwEBAAMAAAAAAAAAAAAAAgMEBQYBEhT/2gAIAQEAAQUC1b/gCzcCa+Zy6E9HXRKGiUhQceTCl1IPFwhzivaVCpk//8QAGxEAAwACAwAAAAAAAAAAAAAAAAECAzEEERL/2gAIAQMBAT8Bq6bpJ6MV+4VMvj47fbRo/8QAHREAAgICAwEAAAAAAAAAAAAAAgMAAQQREhNBIf/aAAgBAgEBPwFKliAEYb5b9mYjocS68is56g4AXyEVle7n/8QAIhAAAQQCAgEFAAAAAAAAAAAAAgABAxEEEhMhIkFhcYGx/9oACAEBAAY/Aoy4Tl3KvFFjFjSPrXd1fwmliKxdQ8Ba27u/Vo3ynj10U2/oTfiBuRwcfa1ZZD/QJoYR1Fl//8QAHxAAAgICAgMBAAAAAAAAAAAAAREAIUFRMWFxocHh/9oACAEBAAE/IR4CAkv3qKyRlWB0PMw7vsdHuEIZNAssXC7BWZDapZbgCes9lX8hKEpR5HARM+AH25pMPJOSdmf/2gAMAwEAAgADAAAAEAcQQ//EABsRAQADAAMBAAAAAAAAAAAAAAEAESExQYHh/9oACAEDAQE/EKj7R0zh7+ZGIUs0OfYAKJ//xAAbEQEAAwEAAwAAAAAAAAAAAAABABEhMXHR4f/aAAgBAgEBPxCiXoxXdgNczQB29qA4sX2Z4eB6iB7XrP/EABwQAQEAAgMBAQAAAAAAAAAAAAERACExQVFhcf/aAAgBAQABPxBBW0hAK88rrthzltVHaiCy3kTrDMEaiIaQdgdI8YufhiSJ4DdzfiZQqZIKoT4JN3BiZTk3i8saneMLHAgCIjPDeRbbdE/GA/ZgKapVQ1DtGqvOf//Z)](https://developers.dotwallet.com/documents/en/)
 [![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)](https://firebase.google.com/)
 <br>
-[![Github](https://img.shields.io/badge/-Github-000?logo=Github)](https://github.com)
+> [![Github](https://img.shields.io/badge/-Github-000?logo=Github)](https://github.com)
 [![HandCash](https://img.shields.io/badge/-HandCash-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAACB1BMVEUAAAAAAAAA/wAA//8AgIAA/4CA/4BVqlVVqqpV/6pAv4AzzGYzzJkrqoAr1YBJtm1J221J25JAv4BG0Ys7xHY3yIAzzHcwv4A9wnk3yIA1ynszxHc8zHc8zIA6zns4z4A2yXw5xng5zYA3yHw0y3w7y3w5zHk1yn01yno5y303zXs5yns4y306zns2zH43y3s5zH44yn02y3s4zXs3yn03zX03ynw4zH03zH04yXw5y303yns3zH05y3w4zHw3ynw4y3s4y3w4yns3ynw4zH03y304y304y3w3zH05y3w3y3w4ynw4y3w4zHw4y303y3w3zHw4y3w4zHw4y3w4y3w3yns3zH05y3w4y3s4y3w4yns4y3w4y3w4y305zH04y3w4y3w4y3w4y3w3y3w4zHw4y3w3y3w4zH04y304yns4y3s4y3w3y3s4ynw4y3w4yns4ynw4zHw4y3w4y3w4y3w4y3w4zHw4y3w4y3w4yns4y3s4y3w4ynw4y3w4y3s4y3w4zHw4y3w4zHw4y3s4y3w4y3w4yns4y3w3y3w4y3w4zHw4y3s4y3w4zHw4y3w4zH04zX05zX05zX45zn45z345z3850H860X860YA60oA60oE604E61IE71II71YI71oI71oM714M714Q72IQ82IQ82YQ82YU82oU93Ic93og934hA541A6I0DCfPjAAAAjnRSTlMAAQEBAgICAwMDBAUFBgYHBwcICw0ODxAVHB0eHh4fICEkJCUnJygrMDE4Ojs+S09VVllbXFxhZGptcHR0dXd5ent8fYOPk5yhoqaoqKmqq6+xs7W3uLi5uru8v8DAwsnKzc7P0NPU1dfZ29zd3t7f5OTo6uvs7vDx9vb29/f4+Pj5+fr6+/z8/f39/v7+ja1qWQAAAeRJREFUeNo0kgNjG1EcwH8LdrU727Zt27ZtxeYOtRu+8EMud7c+/m301QCW2nN65PWtQysMlP/02Tc30s7OnDJZkC8umuLUs81ROU4bKyeGwn9i+dBW6kz5vULWHmOl4dybUKHHoYq9NOj0bSLqSX/rrnFg8dFfKV9UbNU5C0OaL/VkYY1ub5gGs+6mfVpwAXAh7xx/KmGXbGBpaoF7GUf+HKyQ44prPo0SzFmEsT71ReVlHCn8KRyjRWLtQ0/w+QZW7Tr1tddXOMTtiUh8CY2sHUjJckr70CtEbyKcusXHvqEXWGw8SrmTf8PJoYTPFUjGht4RiqSu08h8n5yUayuSHMrVVBQ33mjqWo2xKGAw4or29sKWKxNxH+/7hp9htfBy1C/LIe3naitcTvW+qzmP+ebRxEYxFIn2lndTb5vxRZ24xeGCo7CXluls/jw48GMP9S1syjgLB1kux3q/z6TBTsuaNV1YJXg1HEkuhfN5R+oGNDcCNNjgZO63OINeRNWXvdJRI7bWWyxYTmb8ql7EBrYXIr70px3dgAUeFH2RwjazIfsKmmMg/+32iU4k7vcnxH6dDhLbgiLiUMZK6+jgUNWxFWlqGBaclQsTidwB2ll/de6/IScTBlXHqJyZAWClEHEAtdacfaxItrEAAAAASUVORK5CYII=)](https://docs.handcash.dev/)
 [![MailChimp](https://img.shields.io/badge/-MailChimp-000?logo=MailChimp)](https://mailchimp.com/)
 [![MapBox](https://img.shields.io/badge/-MapBox-000?logo=MapBox)](https://www.mapbox.com/)
@@ -81,7 +81,8 @@
 [![Peplink](https://img.shields.io/badge/-Peplink-000?logo=TP-Link)](https://www.peplink.com/)
 [![Pipl](https://img.shields.io/badge/-Pipl-000?logo=PicPay)](https://pipl.com/)
 [![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)](https://www.postman.com/)
-<br>[![Postmark](https://img.shields.io/badge/-Postmark-000?logo=ProcessingFoundation)](https://postmarkapp.com/)
+<br>
+> [![Postmark](https://img.shields.io/badge/-Postmark-000?logo=ProcessingFoundation)](https://postmarkapp.com/)
 [![Prettier](https://img.shields.io/badge/-Prettier-000?logo=Prettier)](https://prettier.io/)
 [![Pusher](https://img.shields.io/badge/-Pusher-000?logo=Pusher)](https://pusher.com/)
 [![Rapid7](https://img.shields.io/badge/-Rapid7-000?logo=Dialogflow)](https://www.rapid7.com/)
@@ -89,7 +90,8 @@
 [![Stripe](https://img.shields.io/badge/-Stripe-000?logo=Stripe)](https://stripe.com/)
 [![Swagger](https://img.shields.io/badge/-Swagger-000?logo=Swagger)](https://swagger.io/)
 [![Travis](https://img.shields.io/badge/-Travis-000?logo=Travis)](https://travis-ci.org/)
-<br>[![Twilio](https://img.shields.io/badge/-Twilio-000?logo=Twilio)](https://www.twilio.com/)
+<br>
+> [![Twilio](https://img.shields.io/badge/-Twilio-000?logo=Twilio)](https://www.twilio.com/)
 [![WhatsOnChain](https://img.shields.io/badge/-WhatsOnChain-000?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wgARCAAYABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAYEB//EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAeyoDZjdmgGs34aAP//EABkQAQACAwAAAAAAAAAAAAAAAAMEEAECE//aAAgBAQABBQKylcEMn0h4OES3/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRABD/2gAIAQMBAT8BVC2Ihnf/xAAbEQACAQUAAAAAAAAAAAAAAAABAwACEBESMf/aAAgBAgEBPwFrgvspOwzf/8QAJRAAAgECAwkBAAAAAAAAAAAAAQIDBBEAITEQEhMUFSAiMqHh/9oACAEBAAY/AtrR1EVY1RNIyTEh91VzsVtlbTTE8XFkEl7QsSxKrl+4WNep8yGHo0p+nx7P/8QAHBAAAwEAAgMAAAAAAAAAAAAAARExIQBBECBh/9oACAEBAAE/IfLtFn7sBYwdZnAp1qHBmS2Qc3rkCfIb3ryv76f/2gAMAwEAAgADAAAAEMvPPP/EABsRAQAABwAAAAAAAAAAAAAAAAEAECFBYXHw/9oACAEDAQE/EDFBdV4zCIrT/8QAHBEBAAEEAwAAAAAAAAAAAAAAAREAIUFhEDFR/9oACAECAQE/EEgQT6wbvDfWaMTkm/fP/8QAGxABAAMBAAMAAAAAAAAAAAAAAREhMQAQIEH/2gAIAQEAAT8Q8/S7BwUFiwAllcNc0VBDB+VxdeHxEqdxbCE9kxvp/9k=)](https://developers.whatsonchain.com/)
 [![Yubikey](https://img.shields.io/badge/-Yubikey-000?logo=Yoast)](https://www.yubico.com/)
 
@@ -105,7 +107,7 @@
 [![Figma](https://img.shields.io/badge/-Figma-000?logo=Figma)](https://www.figma.com/)
 [![Fountain](https://img.shields.io/badge/-Fountain-000?logo=Flood)](https://get.fountain.com/)
 <br>
-[![Google](https://img.shields.io/badge/-GoogleWorkspace-000?logo=Google)](https://workspace.google.com/)
+> [![Google](https://img.shields.io/badge/-GoogleWorkspace-000?logo=Google)](https://workspace.google.com/)
 [![LastPass](https://img.shields.io/badge/-LastPass-000?logo=LastPass)](https://www.lastpass.com/)
 [![Notion](https://img.shields.io/badge/-Notion-000?logo=Notion)](https://www.notion.so/)
 [![OpenVPN](https://img.shields.io/badge/-OpenVPN-000?logo=OpenVPN)](https://openvpn.net/)
@@ -113,7 +115,7 @@
 [![Quickbooks](https://img.shields.io/badge/-QuickBooks-000?logo=Quickbooks)](https://quickbooks.intuit.com/)
 [![SauceLabs](https://img.shields.io/badge/-SauceLabs-000?logo=SauceLabs)](https://saucelabs.com/)
 <br>
-[![Slack](https://img.shields.io/badge/-Slack-000?logo=Slack&logoColor=yellow)](https://slack.com/)
+> [![Slack](https://img.shields.io/badge/-Slack-000?logo=Slack&logoColor=yellow)](https://slack.com/)
 [![SquareSpace](https://img.shields.io/badge/-SquareSpace-000?logo=SquareSpace)](https://www.squarespace.com/)
 [![ZenDesk](https://img.shields.io/badge/-ZenDesk-000?logo=ZenDesk)](https://www.zendesk.com/)
 
