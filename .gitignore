@@ -6,3 +6,6 @@ logs
 # JetBeans
 .idea
 todo.md
+
+# Releases
+dist
