@@ -9,15 +9,17 @@
 ### Languages
 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Script](https://img.shields.io/badge/-Script-000?&logo=BitcoinSV)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Script](https://img.shields.io/badge/-Script-000?&logo=BitcoinSV)
+![Pirate](https://img.shields.io/badge/-Pirate-000?&logo=HackADay)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Stylus](https://img.shields.io/badge/-Stylus-000?&logo=Stylus)
 
 
 ### Technologies
@@ -29,39 +31,59 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
-<br>
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
+![HomeBrew](https://img.shields.io/badge/-Brew-000?&logo=HomeBrew)
+![Kali](https://img.shields.io/badge/-Kali-000?&logo=KaliLinux)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+<br>
+![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX)
+![Node.js](https://img.shields.io/badge/-NodeJS-000?&logo=node.js)
 ![Npm](https://img.shields.io/badge/-npm-000?&logo=npm)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql)
+![Pusher](https://img.shields.io/badge/-Pusher-000?&logo=Pusher)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Timescale](https://img.shields.io/badge/-Timescale-000?&logo=Timescale)
+![Tor](https://img.shields.io/badge/-TOR-000?&logo=TorProject)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 
 ### Implementations
 
 ![Analytics](https://img.shields.io/badge/-Analytics-000?&logo=GoogleAnalytics)
 ![Asana](https://img.shields.io/badge/-Asana-000?&logo=Asana)
+![BaseCamp](https://img.shields.io/badge/-BaseCamp-000?&logo=BaseCamp)
 ![CloudFlare](https://img.shields.io/badge/-CloudFlare-000?&logo=CloudFlare)
 ![CodeCov](https://img.shields.io/badge/-CodeCov-000?&logo=CodeCov)
+![Codeship](https://img.shields.io/badge/-Codeship-000?&logo=Codeship)
 ![CustomerIO](https://img.shields.io/badge/-CustomerIo-000?&logo=ICON)
 ![Dependabot](https://img.shields.io/badge/-Dependabot-000?&logo=dependabot)
 ![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
 ![Drift](https://img.shields.io/badge/-Drift-000?&logo=Chatbot)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 <br>
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Google](https://img.shields.io/badge/-GoogleWorkspace-000?&logo=Google)
 ![LastPass](https://img.shields.io/badge/-LastPass-000?&logo=LastPass)
 ![MailChimp](https://img.shields.io/badge/-MailChimp-000?&logo=MailChimp)
 ![NewRelic](https://img.shields.io/badge/-NewRelic-000?&logo=NewRelic)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-000?&logo=OpenVPN)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
+<br>
 ![Quickbooks](https://img.shields.io/badge/-QuickBooks-000?&logo=Quickbooks)
 ![Rapid7](https://img.shields.io/badge/-Rapid7-000?&logo=Dialogflow)
+![SauceLabs](https://img.shields.io/badge/-SauceLabs-000?&logo=SauceLabs)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
+![StatusPage](https://img.shields.io/badge/-StatusPage-000?&logo=StatusPage)
+![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
+![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis)
+![ZenDesk](https://img.shields.io/badge/-ZenDesk-000?&logo=ZenDesk)
 
 ### Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrz1836&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrz1836&theme=dark)](https://github.com/mrz1836)
 
 <a href="https://github.com/mrz1836">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrz1836&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Languages" />
