@@ -15,7 +15,7 @@
 ---
 
 ### Languages
-> [![Go](https://img.shields.io/badge/-Go-000?logo=Go)](https://golang.org/dl/)
+[![Go](https://img.shields.io/badge/-Go-000?logo=Go)](https://golang.org/dl/)
 [![PHP](https://img.shields.io/badge/-PHP-000?logo=PHP)](https://www.php.net/downloads.php)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)](https://www.javascript.com/)
 [![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL&logoColor=white)](https://www.mysql.com/downloads/)
@@ -29,24 +29,24 @@
 [![AutoIt](https://img.shields.io/badge/-Autoit-000?logo=AutoDesk)](https://www.autoitscript.com/site/)
 
 ### Cloud Services
-> [![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?logo=DigitalOcean)](https://www.digitalocean.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-000?logo=Heroku)](https://www.heroku.com/)
 
 ### Databases
-> [![MemCached](https://img.shields.io/badge/-MemCache-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAFjElEQVRIx5WWy48cVxXGf+feqp6eGTvzwh5iKbIhGILNjh0rL7J0LBlkBTawcyQrBnnNQy3+AgRij7IBZIityCtgEVYIRUJCLBCExJESPA7OuD2PflXVOR+L6p6XbRyuVF0l9T33++453/nuNQ6MXq+Xer1eAPzoe9dfS6ZXgDOCFYxVRJdPMQQj4KFBH3jfsFu9n/zsFwCSzMw0m2sH4qyNhR9+99rvjx9bfLmqGyICReARSNM4s3amHUad/pDMSCljyUgp0SkLdneHt378059//SAOQJp9XL16tQD4wfVrry0uLLy8tb07Ho3HzaSqvIqIRijMCLOWlFpie4/E7P9aqPLGJ1Xlo/G43trZnczPdy9///VrrwLq9XrFDHfvo9/vB0DIX5lMJggViAJBGg9Jmm7ZwDtz6OA+DIggjSaYJUCmlHKUJYiMUVd1jRSXgF/D2xwlYDdv3nSACJ1p3IkIa9c2tr58jioXGMKqmqW7703BW0I0jnXmeHT2LLUCzMjDIc99+CGkDMLcnVC82GrtbX+sBAA3btyYV2jZPQiJaBrUneOfp07x1toqf1xd5fapz3L39GnSZEIgIoTVDQ/Pn+d3J9b4w9Jz3FlZ5p3lJVygCCLC3B1JK71eL3FAQUWrzFZXncGgE6Y5wpEwmoamM8ekrlmeTOgarCPeOXmSpX6flc1NoqoZnTvHXxbnse1tjqdEt6lpFNQ502lqwhIeQXjMbW5ulsDkSAbaYlrOKSJShAgJudN0OozMSIhxTjjQUfDXM6epPEhra7x76nke7O7SKTKDZJjEMCWqnJAHoSBCBEprOzsHe2dfhLMREhZBmJHcacqSSoEj1rd32J5vreB+p8P7XzrLytIyf6/GLBrkScXz3vCg26UxqHJmYbqWLFDoMc9Ih+1gq62ZtMe6LgqaCEYYX7j7AV/c3qafE0tVxT/WVvlzNhariq2U+NzGBuf6WzQ54RJ1ajMgtVqJiKcRmMFzCFwR08WCgsDDOfHvDZYFDaJoGlLTEGbMVxPWNz5GKVFIUwKtZ4Q09Q7xwRMJ7Cdgj+3MXNyMUIBEVZZ07t/nhdGQoRkoMImRwQuPtuhu71DnDApANFPTmpFw6X9noPUBP1CGKYGYESiI4YgTn2xSJJvWVIQ76//5BKQ2Y9P5jbG31swxn01gCtwyFzHtUwF1zjQ5sbjxMetNQ63AgbXBgOMP+zRFQZ0zHkFSGzsDn5X22QR8H1xS6/kKTMG4LPBcQP8RJ3d22emU9JOx/rBPHk/wnKmKTIS3pGcbmWnAHy/BE9owQAkxDQqBRJIYlSWOSILVj+7xUl0TTc3JB5sEYDkxKTIKB7P9nYcIa7PxTAIKIdretQhwxyTMnVFZEBjDbIzvbfD5j+4hYKfIOLBQloySkSoncgL3qZgDYfjTSjBrAq/rCCnaurXiQoGbtRrodNgsC74a4vWiQ9eMz5Ql14sOL41G7CzMU+WEI2oMwqf9P+0sjxgMBvHUDPShOhYxliVidvsYDDi2OE+qKrLBsCyYG444poZMkM1YrJ1O3TAuCnwwZGk8oi4yxaSaHliBUkKK8c3f/LbmyC3o0G3o29+4/Lci56803rhBFiCzvRMjYdThKESRM0K4OylnCjNierABmMAQgqYsiqKu/U9vvHnrawfxZl2gK1eu5KkG3gMhKVpDEniAB+aO3CkFZUpYBDlEmTJFm2JSxN587XeTEEjxLsCFCxfyY214/sEDA3D57WQJhSKkOqQmJG+1QYQULoUiDn17q529dxsTTUhVhMAgwm8fFeETL6XfunTxze7c3OWZf4faVvx/hpntPSklxpPJG7986853jl5K7QmEBPDNixdfxeIS2IuIFRldk9KnhHfQBLNN0L9QuvWrO3duHcUA+C+el0JwB+YsdgAAAABJRU5ErkJggg==)](https://memcached.org/)
+[![MemCached](https://img.shields.io/badge/-MemCache-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAFjElEQVRIx5WWy48cVxXGf+feqp6eGTvzwh5iKbIhGILNjh0rL7J0LBlkBTawcyQrBnnNQy3+AgRij7IBZIityCtgEVYIRUJCLBCExJESPA7OuD2PflXVOR+L6p6XbRyuVF0l9T33++453/nuNQ6MXq+Xer1eAPzoe9dfS6ZXgDOCFYxVRJdPMQQj4KFBH3jfsFu9n/zsFwCSzMw0m2sH4qyNhR9+99rvjx9bfLmqGyICReARSNM4s3amHUad/pDMSCljyUgp0SkLdneHt378059//SAOQJp9XL16tQD4wfVrry0uLLy8tb07Ho3HzaSqvIqIRijMCLOWlFpie4/E7P9aqPLGJ1Xlo/G43trZnczPdy9///VrrwLq9XrFDHfvo9/vB0DIX5lMJggViAJBGg9Jmm7ZwDtz6OA+DIggjSaYJUCmlHKUJYiMUVd1jRSXgF/D2xwlYDdv3nSACJ1p3IkIa9c2tr58jioXGMKqmqW7703BW0I0jnXmeHT2LLUCzMjDIc99+CGkDMLcnVC82GrtbX+sBAA3btyYV2jZPQiJaBrUneOfp07x1toqf1xd5fapz3L39GnSZEIgIoTVDQ/Pn+d3J9b4w9Jz3FlZ5p3lJVygCCLC3B1JK71eL3FAQUWrzFZXncGgE6Y5wpEwmoamM8ekrlmeTOgarCPeOXmSpX6flc1NoqoZnTvHXxbnse1tjqdEt6lpFNQ502lqwhIeQXjMbW5ulsDkSAbaYlrOKSJShAgJudN0OozMSIhxTjjQUfDXM6epPEhra7x76nke7O7SKTKDZJjEMCWqnJAHoSBCBEprOzsHe2dfhLMREhZBmJHcacqSSoEj1rd32J5vreB+p8P7XzrLytIyf6/GLBrkScXz3vCg26UxqHJmYbqWLFDoMc9Ih+1gq62ZtMe6LgqaCEYYX7j7AV/c3qafE0tVxT/WVvlzNhariq2U+NzGBuf6WzQ54RJ1ajMgtVqJiKcRmMFzCFwR08WCgsDDOfHvDZYFDaJoGlLTEGbMVxPWNz5GKVFIUwKtZ4Q09Q7xwRMJ7Cdgj+3MXNyMUIBEVZZ07t/nhdGQoRkoMImRwQuPtuhu71DnDApANFPTmpFw6X9noPUBP1CGKYGYESiI4YgTn2xSJJvWVIQ76//5BKQ2Y9P5jbG31swxn01gCtwyFzHtUwF1zjQ5sbjxMetNQ63AgbXBgOMP+zRFQZ0zHkFSGzsDn5X22QR8H1xS6/kKTMG4LPBcQP8RJ3d22emU9JOx/rBPHk/wnKmKTIS3pGcbmWnAHy/BE9owQAkxDQqBRJIYlSWOSILVj+7xUl0TTc3JB5sEYDkxKTIKB7P9nYcIa7PxTAIKIdretQhwxyTMnVFZEBjDbIzvbfD5j+4hYKfIOLBQloySkSoncgL3qZgDYfjTSjBrAq/rCCnaurXiQoGbtRrodNgsC74a4vWiQ9eMz5Ql14sOL41G7CzMU+WEI2oMwqf9P+0sjxgMBvHUDPShOhYxliVidvsYDDi2OE+qKrLBsCyYG444poZMkM1YrJ1O3TAuCnwwZGk8oi4yxaSaHliBUkKK8c3f/LbmyC3o0G3o29+4/Lci56803rhBFiCzvRMjYdThKESRM0K4OylnCjNierABmMAQgqYsiqKu/U9vvHnrawfxZl2gK1eu5KkG3gMhKVpDEniAB+aO3CkFZUpYBDlEmTJFm2JSxN587XeTEEjxLsCFCxfyY214/sEDA3D57WQJhSKkOqQmJG+1QYQULoUiDn17q529dxsTTUhVhMAgwm8fFeETL6XfunTxze7c3OWZf4faVvx/hpntPSklxpPJG7986853jl5K7QmEBPDNixdfxeIS2IuIFRldk9KnhHfQBLNN0L9QuvWrO3duHcUA+C+el0JwB+YsdgAAAABJRU5ErkJggg==)](https://memcached.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-000?logo=Postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/-Redis-000?logo=Redis)](https://redis.io/)
 [![Timescale](https://img.shields.io/badge/-Timescale-000?logo=Timescale)](https://www.timescale.com/)
 
 ### Operating Systems
-> [![Kali](https://img.shields.io/badge/-Kali-000?logo=KaliLinux&logoColor=white)](https://www.kali.org/)
+[![Kali](https://img.shields.io/badge/-Kali-000?logo=KaliLinux&logoColor=white)](https://www.kali.org/)
 [![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)](https://www.linux.org/)
 [![MacOS](https://img.shields.io/badge/-MacOS-000?logo=macos)](https://www.apple.com/macos/big-sur/)
 
 ### Technologies
-> [![BitCoin](https://img.shields.io/badge/-BitCoin-000?logo=BitcoinSV)](https://bitcoinsv.io)
+[![BitCoin](https://img.shields.io/badge/-BitCoin-000?logo=BitcoinSV)](https://bitcoinsv.io)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)](https://getbootstrap.com/)
 [![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)](https://hub.docker.com/)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-000?logo=Gatsby)](https://www.gatsbyjs.com/)
@@ -61,7 +61,7 @@
 [![Yarn](https://img.shields.io/badge/-Yarn-000?logo=Yarn)](https://yarnpkg.com/)
 
 ### Integrations
-> [![Authenteq](https://img.shields.io/badge/-Authenteq-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAA4VBMVEX/yL7/y8H/0cj/0cn/08v/1c7/19D/2NH/2NL/2dP/2tP/2tT/29T/29X/3Nb/3df/3tj/3tn/39n/39r/4Nr/4Nv/4dv/4dz/4tz/4t3/497/49//5N//5OD/5eD/5eH/5uH/5uL/5+L/5+P/6OT/6OX/6eX/6ub/6uf/6+f/6+j/7Oj/7On/7en/7er/7uv/7+z/7+3/8O3/8e7/8e//8u//8vD/8/H/9PL/9PP/9fP/9fT/9vT/9vX/9/X/+fj/+vr/+/r/+/v//Pv//Pz//fz//f3//v3//v7///7///89yLh6AAABN0lEQVR42nWSBXbDMAyGy9zaUaxm2srMzMyg+99n6GT8PzB8TywX/6Mv4PamX+DmYAfYz12jWGhOLj8tGotuECGhsKttNEgnIFUQpnWoxravRIMbU4xgU661EgbBrGtb3LiVW0hMGJ0KkpmMxHt80xai0hCPHVQZ88FIDaR5ebe48zyaKhn5Vay9CfWm1mybGb2auN48hVtTMANT5lGyhJEq1jXIm6igOOXrhVOR8TAuiw4Qo4kc8eXEJchmFdqgIYiKPZgwcxHASkRrGsyDpMS0KHJUKqKFrsFGF3icZdECJJlKhWfdiP/oFHjJKjAwkQ8RpMhy9+0C70xiX2qMfMsnIImCb59NpEw6X/XMMkLhymnimwm3ZDzgFZJae75+H9RlXq2u1+e369+jvf9ahvtNw+/gl14Ai4984O49QIAAAAAASUVORK5CYII=)](https://authenteq.com/)
+[![Authenteq](https://img.shields.io/badge/-Authenteq-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAA4VBMVEX/yL7/y8H/0cj/0cn/08v/1c7/19D/2NH/2NL/2dP/2tP/2tT/29T/29X/3Nb/3df/3tj/3tn/39n/39r/4Nr/4Nv/4dv/4dz/4tz/4t3/497/49//5N//5OD/5eD/5eH/5uH/5uL/5+L/5+P/6OT/6OX/6eX/6ub/6uf/6+f/6+j/7Oj/7On/7en/7er/7uv/7+z/7+3/8O3/8e7/8e//8u//8vD/8/H/9PL/9PP/9fP/9fT/9vT/9vX/9/X/+fj/+vr/+/r/+/v//Pv//Pz//fz//f3//v3//v7///7///89yLh6AAABN0lEQVR42nWSBXbDMAyGy9zaUaxm2srMzMyg+99n6GT8PzB8TywX/6Mv4PamX+DmYAfYz12jWGhOLj8tGotuECGhsKttNEgnIFUQpnWoxravRIMbU4xgU661EgbBrGtb3LiVW0hMGJ0KkpmMxHt80xai0hCPHVQZ88FIDaR5ebe48zyaKhn5Vay9CfWm1mybGb2auN48hVtTMANT5lGyhJEq1jXIm6igOOXrhVOR8TAuiw4Qo4kc8eXEJchmFdqgIYiKPZgwcxHASkRrGsyDpMS0KHJUKqKFrsFGF3icZdECJJlKhWfdiP/oFHjJKjAwkQ8RpMhy9+0C70xiX2qMfMsnIImCb59NpEw6X/XMMkLhymnimwm3ZDzgFZJae75+H9RlXq2u1+e369+jvf9ahvtNw+/gl14Ai4984O49QIAAAAAASUVORK5CYII=)](https://authenteq.com/)
 [![Checkr](https://img.shields.io/badge/-Checkr-000?logo=CheckiO&logoColor=white)](https://checkr.com/)
 [![CodeCov](https://img.shields.io/badge/-CodeCov-000?logo=CodeCov)](https://about.codecov.io/)
 [![Codeship](https://img.shields.io/badge/-Codeship-000?logo=Codeship)](https://www.cloudbees.com/products/codeship)
@@ -71,7 +71,7 @@
 [![DotWallet](https://img.shields.io/badge/-DotWallet-000?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wgARCAAYABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAYFAgf/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/9oADAMBAAIQAxAAAAH0vL60dSXSR6RtBPBjYiR3/8QAGxAAAwEBAAMAAAAAAAAAAAAAAgMEBQYBEhT/2gAIAQEAAQUC1b/gCzcCa+Zy6E9HXRKGiUhQceTCl1IPFwhzivaVCpk//8QAGxEAAwACAwAAAAAAAAAAAAAAAAECAzEEERL/2gAIAQMBAT8Bq6bpJ6MV+4VMvj47fbRo/8QAHREAAgICAwEAAAAAAAAAAAAAAgMAAQQREhNBIf/aAAgBAgEBPwFKliAEYb5b9mYjocS68is56g4AXyEVle7n/8QAIhAAAQQCAgEFAAAAAAAAAAAAAgABAxEEEhMhIkFhcYGx/9oACAEBAAY/Aoy4Tl3KvFFjFjSPrXd1fwmliKxdQ8Ba27u/Vo3ynj10U2/oTfiBuRwcfa1ZZD/QJoYR1Fl//8QAHxAAAgICAgMBAAAAAAAAAAAAAREAIUFRMWFxocHh/9oACAEBAAE/IR4CAkv3qKyRlWB0PMw7vsdHuEIZNAssXC7BWZDapZbgCes9lX8hKEpR5HARM+AH25pMPJOSdmf/2gAMAwEAAgADAAAAEAcQQ//EABsRAQADAAMBAAAAAAAAAAAAAAEAESExQYHh/9oACAEDAQE/EKj7R0zh7+ZGIUs0OfYAKJ//xAAbEQEAAwEAAwAAAAAAAAAAAAABABEhMXHR4f/aAAgBAgEBPxCiXoxXdgNczQB29qA4sX2Z4eB6iB7XrP/EABwQAQEAAgMBAQAAAAAAAAAAAAERACExQVFhcf/aAAgBAQABPxBBW0hAK88rrthzltVHaiCy3kTrDMEaiIaQdgdI8YufhiSJ4DdzfiZQqZIKoT4JN3BiZTk3i8saneMLHAgCIjPDeRbbdE/GA/ZgKapVQ1DtGqvOf//Z)](https://developers.dotwallet.com/documents/en/)
 [![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)](https://firebase.google.com/)
 <br>
-> [![Github](https://img.shields.io/badge/-Github-000?logo=Github)](https://github.com)
+[![Github](https://img.shields.io/badge/-Github-000?logo=Github)](https://github.com)
 [![HandCash](https://img.shields.io/badge/-HandCash-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAACB1BMVEUAAAAAAAAA/wAA//8AgIAA/4CA/4BVqlVVqqpV/6pAv4AzzGYzzJkrqoAr1YBJtm1J221J25JAv4BG0Ys7xHY3yIAzzHcwv4A9wnk3yIA1ynszxHc8zHc8zIA6zns4z4A2yXw5xng5zYA3yHw0y3w7y3w5zHk1yn01yno5y303zXs5yns4y306zns2zH43y3s5zH44yn02y3s4zXs3yn03zX03ynw4zH03zH04yXw5y303yns3zH05y3w4zHw3ynw4y3s4y3w4yns3ynw4zH03y304y304y3w3zH05y3w3y3w4ynw4y3w4zHw4y303y3w3zHw4y3w4zHw4y3w4y3w3yns3zH05y3w4y3s4y3w4yns4y3w4y3w4y305zH04y3w4y3w4y3w4y3w3y3w4zHw4y3w3y3w4zH04y304yns4y3s4y3w3y3s4ynw4y3w4yns4ynw4zHw4y3w4y3w4y3w4y3w4zHw4y3w4y3w4yns4y3s4y3w4ynw4y3w4y3s4y3w4zHw4y3w4zHw4y3s4y3w4y3w4yns4y3w3y3w4y3w4zHw4y3s4y3w4zHw4y3w4zH04zX05zX05zX45zn45z345z3850H860X860YA60oA60oE604E61IE71II71YI71oI71oM714M714Q72IQ82IQ82YQ82YU82oU93Ic93og934hA541A6I0DCfPjAAAAjnRSTlMAAQEBAgICAwMDBAUFBgYHBwcICw0ODxAVHB0eHh4fICEkJCUnJygrMDE4Ojs+S09VVllbXFxhZGptcHR0dXd5ent8fYOPk5yhoqaoqKmqq6+xs7W3uLi5uru8v8DAwsnKzc7P0NPU1dfZ29zd3t7f5OTo6uvs7vDx9vb29/f4+Pj5+fr6+/z8/f39/v7+ja1qWQAAAeRJREFUeNo0kgNjG1EcwH8LdrU727Zt27ZtxeYOtRu+8EMud7c+/m301QCW2nN65PWtQysMlP/02Tc30s7OnDJZkC8umuLUs81ROU4bKyeGwn9i+dBW6kz5vULWHmOl4dybUKHHoYq9NOj0bSLqSX/rrnFg8dFfKV9UbNU5C0OaL/VkYY1ub5gGs+6mfVpwAXAh7xx/KmGXbGBpaoF7GUf+HKyQ44prPo0SzFmEsT71ReVlHCn8KRyjRWLtQ0/w+QZW7Tr1tddXOMTtiUh8CY2sHUjJckr70CtEbyKcusXHvqEXWGw8SrmTf8PJoYTPFUjGht4RiqSu08h8n5yUayuSHMrVVBQ33mjqWo2xKGAw4or29sKWKxNxH+/7hp9htfBy1C/LIe3naitcTvW+qzmP+ebRxEYxFIn2lndTb5vxRZ24xeGCo7CXluls/jw48GMP9S1syjgLB1kux3q/z6TBTsuaNV1YJXg1HEkuhfN5R+oGNDcCNNjgZO63OINeRNWXvdJRI7bWWyxYTmb8ql7EBrYXIr70px3dgAUeFH2RwjazIfsKmmMg/+32iU4k7vcnxH6dDhLbgiLiUMZK6+jgUNWxFWlqGBaclQsTidwB2ll/de6/IScTBlXHqJyZAWClEHEAtdacfaxItrEAAAAASUVORK5CYII=)](https://docs.handcash.dev/)
 [![MailChimp](https://img.shields.io/badge/-MailChimp-000?logo=MailChimp)](https://mailchimp.com/)
 [![MapBox](https://img.shields.io/badge/-MapBox-000?logo=MapBox)](https://www.mapbox.com/)
@@ -81,8 +81,7 @@
 [![Peplink](https://img.shields.io/badge/-Peplink-000?logo=TP-Link)](https://www.peplink.com/)
 [![Pipl](https://img.shields.io/badge/-Pipl-000?logo=PicPay)](https://pipl.com/)
 [![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)](https://www.postman.com/)
-<br>
-> [![Postmark](https://img.shields.io/badge/-Postmark-000?logo=ProcessingFoundation)](https://postmarkapp.com/)
+<br>[![Postmark](https://img.shields.io/badge/-Postmark-000?logo=ProcessingFoundation)](https://postmarkapp.com/)
 [![Prettier](https://img.shields.io/badge/-Prettier-000?logo=Prettier)](https://prettier.io/)
 [![Pusher](https://img.shields.io/badge/-Pusher-000?logo=Pusher)](https://pusher.com/)
 [![Rapid7](https://img.shields.io/badge/-Rapid7-000?logo=Dialogflow)](https://www.rapid7.com/)
@@ -90,13 +89,12 @@
 [![Stripe](https://img.shields.io/badge/-Stripe-000?logo=Stripe)](https://stripe.com/)
 [![Swagger](https://img.shields.io/badge/-Swagger-000?logo=Swagger)](https://swagger.io/)
 [![Travis](https://img.shields.io/badge/-Travis-000?logo=Travis)](https://travis-ci.org/)
-<br>
-> [![Twilio](https://img.shields.io/badge/-Twilio-000?logo=Twilio)](https://www.twilio.com/)
+<br>[![Twilio](https://img.shields.io/badge/-Twilio-000?logo=Twilio)](https://www.twilio.com/)
 [![WhatsOnChain](https://img.shields.io/badge/-WhatsOnChain-000?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wgARCAAYABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAYEB//EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAeyoDZjdmgGs34aAP//EABkQAQACAwAAAAAAAAAAAAAAAAMEEAECE//aAAgBAQABBQKylcEMn0h4OES3/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRABD/2gAIAQMBAT8BVC2Ihnf/xAAbEQACAQUAAAAAAAAAAAAAAAABAwACEBESMf/aAAgBAgEBPwFrgvspOwzf/8QAJRAAAgECAwkBAAAAAAAAAAAAAQIDBBEAITEQEhMUFSAiMqHh/9oACAEBAAY/AtrR1EVY1RNIyTEh91VzsVtlbTTE8XFkEl7QsSxKrl+4WNep8yGHo0p+nx7P/8QAHBAAAwEAAgMAAAAAAAAAAAAAARExIQBBECBh/9oACAEBAAE/IfLtFn7sBYwdZnAp1qHBmS2Qc3rkCfIb3ryv76f/2gAMAwEAAgADAAAAEMvPPP/EABsRAQAABwAAAAAAAAAAAAAAAAEAECFBYXHw/9oACAEDAQE/EDFBdV4zCIrT/8QAHBEBAAEEAwAAAAAAAAAAAAAAAREAIUFhEDFR/9oACAECAQE/EEgQT6wbvDfWaMTkm/fP/8QAGxABAAMBAAMAAAAAAAAAAAAAAREhMQAQIEH/2gAIAQEAAT8Q8/S7BwUFiwAllcNc0VBDB+VxdeHxEqdxbCE9kxvp/9k=)](https://developers.whatsonchain.com/)
 [![Yubikey](https://img.shields.io/badge/-Yubikey-000?logo=Yoast)](https://www.yubico.com/)
 
 ### Implementations
-> [![AdWords](https://img.shields.io/badge/-AdWords-000?logo=GoogleAds)](https://ads.google.com)
+[![AdWords](https://img.shields.io/badge/-AdWords-000?logo=GoogleAds)](https://ads.google.com)
 [![Aha](https://img.shields.io/badge/-Aha-000?logo=Academia)](https://www.aha.io/)
 [![Analytics](https://img.shields.io/badge/-Analytics-000?logo=GoogleAnalytics)](https://analytics.google.com/)
 [![Asana](https://img.shields.io/badge/-Asana-000?logo=Asana&logoColor=pink)](https://asana.com/)
@@ -107,7 +105,7 @@
 [![Figma](https://img.shields.io/badge/-Figma-000?logo=Figma)](https://www.figma.com/)
 [![Fountain](https://img.shields.io/badge/-Fountain-000?logo=Flood)](https://get.fountain.com/)
 <br>
-> [![Google](https://img.shields.io/badge/-GoogleWorkspace-000?logo=Google)](https://workspace.google.com/)
+[![Google](https://img.shields.io/badge/-GoogleWorkspace-000?logo=Google)](https://workspace.google.com/)
 [![LastPass](https://img.shields.io/badge/-LastPass-000?logo=LastPass)](https://www.lastpass.com/)
 [![Notion](https://img.shields.io/badge/-Notion-000?logo=Notion)](https://www.notion.so/)
 [![OpenVPN](https://img.shields.io/badge/-OpenVPN-000?logo=OpenVPN)](https://openvpn.net/)
@@ -115,7 +113,7 @@
 [![Quickbooks](https://img.shields.io/badge/-QuickBooks-000?logo=Quickbooks)](https://quickbooks.intuit.com/)
 [![SauceLabs](https://img.shields.io/badge/-SauceLabs-000?logo=SauceLabs)](https://saucelabs.com/)
 <br>
-> [![Slack](https://img.shields.io/badge/-Slack-000?logo=Slack&logoColor=yellow)](https://slack.com/)
+[![Slack](https://img.shields.io/badge/-Slack-000?logo=Slack&logoColor=yellow)](https://slack.com/)
 [![SquareSpace](https://img.shields.io/badge/-SquareSpace-000?logo=SquareSpace)](https://www.squarespace.com/)
 [![ZenDesk](https://img.shields.io/badge/-ZenDesk-000?logo=ZenDesk)](https://www.zendesk.com/)
 
