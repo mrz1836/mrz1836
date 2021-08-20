@@ -8,23 +8,23 @@
 
 ### Languages
 
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Script](https://img.shields.io/badge/-Script-000?&logo=BitcoinSV)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Pirate](https://img.shields.io/badge/-Pirate-000?&logo=HackADay)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![Stylus](https://img.shields.io/badge/-Stylus-000?&logo=Stylus)
+[![Go](https://img.shields.io/badge/-Go-000?&logo=Go)](https://golang.org/dl/)
+[![Script](https://img.shields.io/badge/-Script-000?&logo=BitcoinSV)](https://bitcoinsv.io)
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://www.php.net/downloads.php)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://www.javascript.com/)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://www.mysql.com/downloads/)
+[![Pirate](https://img.shields.io/badge/-Pirate-000?&logo=HackADay)](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day)
+[![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/downloads/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://www.typescriptlang.org/download)
+[![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://en.wikipedia.org/wiki/CSS)
+[![Stylus](https://img.shields.io/badge/-Stylus-000?&logo=Stylus)](https://stylus-lang.com/)
 
 
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?&logo=BitcoinSV)
+![BitCoin](https://img.shields.io/badge/-BitCoin-000?&logo=BitcoinSV)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -47,37 +47,48 @@
 ![Tor](https://img.shields.io/badge/-TOR-000?&logo=TorProject&logoColor=green)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 
-### Implementations
+### Integrations & Implementations
 
+![AdWords](https://img.shields.io/badge/-AdWords-000?&logo=GoogleAds)
+![Aha](https://img.shields.io/badge/-Aha-000?&logo=Academia)
 ![Analytics](https://img.shields.io/badge/-Analytics-000?&logo=GoogleAnalytics)
 ![Asana](https://img.shields.io/badge/-Asana-000?&logo=Asana&logoColor=pink)
 ![BaseCamp](https://img.shields.io/badge/-BaseCamp-000?&logo=BaseCamp)
+![Checkr](https://img.shields.io/badge/-Checkr-000?&logo=CheckiO)
 ![CloudFlare](https://img.shields.io/badge/-CloudFlare-000?&logo=CloudFlare)
 ![CodeCov](https://img.shields.io/badge/-CodeCov-000?&logo=CodeCov)
 ![Codeship](https://img.shields.io/badge/-Codeship-000?&logo=Codeship)
 ![CustomerIO](https://img.shields.io/badge/-CustomerIo-000?&logo=ICON)
+<br>
 ![Dependabot](https://img.shields.io/badge/-Dependabot-000?&logo=dependabot)
 ![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
 ![Drift](https://img.shields.io/badge/-Drift-000?&logo=Chatbot)
-<br>
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Fountain](https://img.shields.io/badge/-Fountain-000?&logo=Flood)
 ![Google](https://img.shields.io/badge/-GoogleWorkspace-000?&logo=Google)
 ![LastPass](https://img.shields.io/badge/-LastPass-000?&logo=LastPass)
+![MapBox](https://img.shields.io/badge/-MapBox-000?&logo=MapBox)
 ![MailChimp](https://img.shields.io/badge/-MailChimp-000?&logo=MailChimp)
+<br>
 ![NewRelic](https://img.shields.io/badge/-NewRelic-000?&logo=NewRelic)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-000?&logo=OpenVPN)
+![Pipl](https://img.shields.io/badge/-Pipl-000?&logo=PicPay)
+![Peplink](https://img.shields.io/badge/-Peplink-000?&logo=TP-Link)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
-<br>
 ![Quickbooks](https://img.shields.io/badge/-QuickBooks-000?&logo=Quickbooks)
 ![Rapid7](https://img.shields.io/badge/-Rapid7-000?&logo=Dialogflow)
 ![SauceLabs](https://img.shields.io/badge/-SauceLabs-000?&logo=SauceLabs)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack&logoColor=yellow)
+<br>
+![SquareSpace](https://img.shields.io/badge/-SquareSpace-000?&logo=SquareSpace)
 ![StatusPage](https://img.shields.io/badge/-StatusPage-000?&logo=StatusPage)
+![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=Stripe)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 ![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis)
+![Twilio](https://img.shields.io/badge/-Twilio-000?&logo=Twilio)
 ![Yubikey](https://img.shields.io/badge/-Yubikey-000?&logo=Yoast)
 ![ZenDesk](https://img.shields.io/badge/-ZenDesk-000?&logo=ZenDesk)
 
@@ -100,3 +111,5 @@
 [![PowPing](https://img.shields.io/badge/-PowPing-000?logo=LaravelHorizon)](https://powping.com/@mrz)
 [![Linked-in](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin)](https://www.linkedin.com/in/mrz1818)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-000?&logo=Mastodon)](https://mastodon.social/@mrz1818)
+
+<br><br>
