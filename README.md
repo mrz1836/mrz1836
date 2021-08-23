@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/wave.gif?v=1" width="30px"> Hi there! I'm Austin (_aka_ Mr. Z)</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/wave.gif?v=1" width="30px"> Hi there! I'm Austin (Mr. Z)</h2>
 <p align="center">
     <a href="https://github.com/mrz1836"><img src="https://img.shields.io/github/followers/mrz1836?label=follow&style=social" alt="Github Followers" /></a>&nbsp;&nbsp;
     <a href="https://twitter.com/mrz1818"><img src="https://img.shields.io/twitter/follow/mrz1818?style=social" alt="Twitter Followers" /></a>
