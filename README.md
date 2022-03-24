@@ -126,6 +126,11 @@
 <br>
 
 ### Statistics
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrz1836&theme=onedark)](https://github.com/mrz1836)
+
+<br>
+
 <a href="https://github.com/mrz1836">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrz1836&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&v=1&hide_title=true" alt="Stats" />
 </a>
