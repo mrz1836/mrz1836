@@ -132,10 +132,8 @@
 <br>
 
 <a href="https://github.com/mrz1836">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrz1836&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&v=1&hide_title=true" alt="Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrz1836&theme=dark" alt="Streak" />
 </a>
 <a href="https://github.com/mrz1836">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrz1836&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide_title=true" alt="Languages" />
 </a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrz1836&theme=dark)](https://github.com/mrz1836)
