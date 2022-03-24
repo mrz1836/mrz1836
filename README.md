@@ -127,7 +127,7 @@
 
 ### Statistics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrz1836&theme=onedark)](https://github.com/mrz1836)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrz1836&theme=onedark&row=2&column=4)](https://github.com/mrz1836)
 
 <br>
 
