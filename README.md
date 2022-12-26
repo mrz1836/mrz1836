@@ -66,6 +66,7 @@
 [![Node.js](https://img.shields.io/badge/-NodeJS-000?logo=node.js)](https://nodejs.org/en/)
 [![Npm](https://img.shields.io/badge/-npm-000?logo=npm)](https://www.npmjs.com/)
 [![Paymail](https://img.shields.io/badge/-Paymail-000?logo=Mail.Ru)](https://bsvalias.org/)
+<br>
 [![React](https://img.shields.io/badge/-React-000?logo=React)](https://reactjs.org/)
 [![Tor](https://img.shields.io/badge/-TOR-000?logo=TorProject&logoColor=green)](https://www.torproject.org/)
 [![Yarn](https://img.shields.io/badge/-Yarn-000?logo=Yarn)](https://yarnpkg.com/)
