@@ -26,6 +26,16 @@
 [![Stylus](https://img.shields.io/badge/-Stylus-000?logo=Stylus)](https://stylus-lang.com/)
 [![AutoIt](https://img.shields.io/badge/-Autoit-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAMAAAANmfvwAAAA5FBMVEUnSGgoSWksTGsxUW81Njo3VnM5WHU7WnY/XXlBX3pGY31LZoBPaoRTbYZYcoled41fhKtmfZJniKtoiaxoi69qgZZri6xtg5dukLJyh5pzka50iZx1kq93l7d7lrB7mbh+kqOAmbKDlaaGl6iGnbOHor6Jn7WJpL+LobaNnKyNoreRqsKVqLqXpbSXqruZprWaqLadqries8mjr7yjssKjt8ulsb6pt8WsuMawvMm0w9O4wMq+ytm/x8/CytLCzdrJ0t3P1drS19zV2d7V3OTX3ODe4eTg4+bk5+rm6Orv8PDw8PD+s2YrAAABf0lEQVR42mIgBFhYSFXCCKCbHNQeCYIA+N1vZ2Lbtq29pOv9n+ewsxunPoxq3P3hDPodb/eVn/4Ok23146byOeaINF+ulZQA604hk6kMDMBwXCp1YBZRFpk1iP9cKYIU1AkdEMep4hAkps6ogfF8VB5WkFMXDKB3VIIwVpr81ijrmmuLfByUGeLT/XEBiet6Dqq28gpT3eveAhhu3frN2la8UNKdI9gJjHRrCK+WUoSQPghIvgySNZsVcFhKA8yjBHbmAgvYecwHBK+lNMHcfQFb1z9zDxNL8dsb6VVaIPF8t9udA/9vXjpuFISMUlGBblzQ7ANK9eHdUj5gqFwbWHoMbJZKbTB+2U+3Yu9WHo/H5fIcUTFoH143BR11xRK+D8qjgUQujQpMT4IhCIbv3EgK8nEaUj0wztbJCYTPou5hDNJx2YJvChQvYvehCci0EPL5YpWZgISvk8S75YTZ161Ue0gs0cjUeTdh3/3FajX9d4KsZGR7wkpYCACilAAA64Jn21OSYkEAAAAASUVORK5CYII=)](https://www.autoitscript.com/site/)
 
+### Methodologies
+[![12 Factor](https://img.shields.io/badge/-12Factor-000?logo=VectorWorks)](https://12factor.net/)
+[![Containerization](https://img.shields.io/badge/-Containerization-000?logo=OpenContainersInitiative)](https://www.ibm.com/topics/containerization)
+[![API First](https://img.shields.io/badge/-API_First-000?logo=FastAPI&logoColor=white)](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
+[![Hexagonal Architecture](https://img.shields.io/badge/-Hexagonal_Architecture-000?logo=Hexo&logoColor=white)](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+[![TDD](https://img.shields.io/badge/-TDD-000?logo=Speedtest)](https://en.wikipedia.org/wiki/Test-driven_development)
+[![FDD](https://img.shields.io/badge/-FDD-000?logo=FutureLearn)](https://en.wikipedia.org/wiki/Feature-driven_development)
+[![CI & CD](https://img.shields.io/badge/-CI_&_CD-000?logo=Contentful&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
+
+
 ### Cloud Services
 [![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?logo=DigitalOcean)](https://www.digitalocean.com/)
@@ -120,14 +130,6 @@
 [![Slack](https://img.shields.io/badge/-Slack-000?logo=Slack&logoColor=yellow)](https://slack.com/)
 [![SquareSpace](https://img.shields.io/badge/-SquareSpace-000?logo=SquareSpace)](https://www.squarespace.com/)
 [![ZenDesk](https://img.shields.io/badge/-ZenDesk-000?logo=ZenDesk)](https://www.zendesk.com/)
-
-### Methodologies
-[![12 Factor](https://img.shields.io/badge/-12Factor-000?logo=VectorWorks)](https://12factor.net/)
-[![Containerization](https://img.shields.io/badge/-Containerization-000?logo=OpenContainersInitiative)](https://www.ibm.com/topics/containerization)
-[![API First](https://img.shields.io/badge/-API_First-000?logo=FastAPI&logoColor=white)](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
-[![TDD](https://img.shields.io/badge/-TDD-000?logo=Speedtest)](https://en.wikipedia.org/wiki/Test-driven_development)
-[![FDD](https://img.shields.io/badge/-FDD-000?logo=FutureLearn)](https://en.wikipedia.org/wiki/Feature-driven_development)
-[![CI & CD](https://img.shields.io/badge/-CI_&_CD-000?logo=Contentful&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
 
 
 <br>
