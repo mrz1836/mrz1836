@@ -121,6 +121,15 @@
 [![SquareSpace](https://img.shields.io/badge/-SquareSpace-000?logo=SquareSpace)](https://www.squarespace.com/)
 [![ZenDesk](https://img.shields.io/badge/-ZenDesk-000?logo=ZenDesk)](https://www.zendesk.com/)
 
+### Methodologies
+[![12 Factor](https://img.shields.io/badge/-12Factor-000?logo=VectorWorks)](https://12factor.net/)
+[![Containerization](https://img.shields.io/badge/-Containerization-000?logo=OpenContainersInitiative)](https://www.ibm.com/topics/containerization)
+[![API First](https://img.shields.io/badge/-API_First-000?logo=FastAPI&logoColor=white)](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
+[![TDD](https://img.shields.io/badge/-TDD-000?logo=Speedtest)](https://en.wikipedia.org/wiki/Test-driven_development)
+[![FDD](https://img.shields.io/badge/-FDD-000?logo=FutureLearn)](https://en.wikipedia.org/wiki/Feature-driven_development)
+[![CI & CD](https://img.shields.io/badge/-CI_&_CD-000?logo=Contentful&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
+
+
 <br>
 
 ### Statistics
