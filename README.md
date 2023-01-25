@@ -42,23 +42,27 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-000?logo=Heroku)](https://www.heroku.com/)
 
 ### AWS Products & Services
-[![ACM](https://img.shields.io/badge/-ACM-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/acm/)
+[![ACM](https://img.shields.io/badge/-ACM-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/acm/)
 [![API Gateway](https://img.shields.io/badge/-API_Gateway-000?logo=amazon-api-gateway&logoColor=F90)](https://aws.amazon.com/api-gateway/)
 [![CloudFormation](https://img.shields.io/badge/-CloudFormation-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/cloudformation/)
 [![CloudFront](https://img.shields.io/badge/-CloudFront-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/cloudfront/)
 [![CloudWatch](https://img.shields.io/badge/-CloudWatch-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/cloudwatch/)
+[![CodeBuild](https://img.shields.io/badge/-CodeBuild-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/codebuild/)
 [![CodePipeline](https://img.shields.io/badge/-CodePipeline-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/codepipeline/)
 [![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?logo=amazon-dynamodb&logoColor=F90)](https://aws.amazon.com/dynamodb/)
 <br>
 [![EC2](https://img.shields.io/badge/-EC2-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/ec2/)
+[![EC2-ELB](https://img.shields.io/badge/-EC2_ELB-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/elasticloadbalancing/)
 [![ElasticBeanstalk](https://img.shields.io/badge/-ElasticBeanstalk-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/elasticbeanstalk/)
 [![Elasticache](https://img.shields.io/badge/-Elasticache-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/elasticache/)
 [![IAM](https://img.shields.io/badge/-IAM-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/iam/)
 [![Lambda](https://img.shields.io/badge/-Lambda-000?logo=aws-lambda&logoColor=F90)](https://aws.amazon.com/lambda/)
+[![KMS](https://img.shields.io/badge/-KMS-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/kms/)
 [![RDS](https://img.shields.io/badge/-RDS-000?logo=amazon-rds&logoColor=F90)](https://aws.amazon.com/rds/)
 [![Route53](https://img.shields.io/badge/-Route53-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/route53/)
 [![S3](https://img.shields.io/badge/-S3-000?logo=amazon-s3&logoColor=F90)](https://aws.amazon.com/s3/)
 <br>
+[![SNS](https://img.shields.io/badge/-SNS-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/sns/)
 [![SQS](https://img.shields.io/badge/-SQS-000?logo=amazon-sqs&logoColor=F90)](https://aws.amazon.com/sqs/)
 [![SecretsManager](https://img.shields.io/badge/-SecretsManager-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/secrets-manager/)
 [![VPC](https://img.shields.io/badge/-VPC-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/vpc/)
