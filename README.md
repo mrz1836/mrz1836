@@ -40,7 +40,28 @@
 [![AWS](https://img.shields.io/badge/-AWS-000?logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?logo=DigitalOcean)](https://www.digitalocean.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-000?logo=Heroku)](https://www.heroku.com/)
-[![Rackspace](https://img.shields.io/badge/-Rackspace-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAC91BMVEUAAAABAQECAgIEBAQJCQkKCQkLDQ0ODg4PDg4PDw8SEhIUBgYUFBQVFRUWFhYXFxcYGBgZGRkaGhocHBwdHR0eHh4fHx8gICAiIiIjIyMkJCQmJycoJyctLS0uLi4yMTE2NjY4ODg7QD9DPj5EQ0NGRkZKSkpLS0tOTk5RUVFUVFRVVVVZWVlgYGBhYWFjY2NseXhwbG1wb29wcHB2c3N3d3d5fHuCgoKEhISOjo6Pj4+RkZGSkpKTk5OVm5uYoKCZl5iZmZmbm5ucnJyfn5+hoaGjAACkq6ulpaWmpqanAACop6epAACqAACqr6+rAACsrKytAACuAACvAACwAACwsLCxAACyAACzAACzAAGzAA2zAA+zABOzs7O0AAC0AA20ABW0ABa0ABm0AB61ABm1ABq1ABu1AB61ACC1ACG1AyO1CiS2ABy2ACO2CyW2DCa2DSa2Dia2Dye2ECe2Eii2Eym2FCm2FCq2FSq3ACO3ACW3Eym3Fiq4DSq4HjC4ITK4JDO5Lju5ubm6GTK6LDy6urq8M0G9N0a/P0y/QE/AP07ASFTBRlPBTFfCwsLDSVXEWWLFy8vGzc3HYWvHx8fIYmzIY23Jzc3Ka3TKbXXKysrLb3jLcXnLy8vMZnDNzc3QeH/Q1tbRhIrR0dHSiI/Ti5HUjpTVjJPVjpTVj5XWl53Xl53an6Ta4eHboabbparcmJ7dparemJ7eqq7e3t7e4+Pf39/goKbgrbLg4ODh4eHjqa7jtLnjtrrjub3krrPltLnlur7l1Nbmv8LnvMDnwsXn5+fn7e3owsbow8fpxsrquL3qyMzqyczqyc3ry87r6+vsw8bt7e3w2tzw9vbx7/Dy3N7y8vLz4OLz8/Pz9fX08fL14+X15Ob19fT19fX25ef25ej25+n29vb43uD47O34+Pj59/f6+vr78vP79PX7+/v7/Pz89PX89vf8+vr8+/v8/Pz9/Pz9/f3++fr+/Pz+/f3+/v7/8/X//f7//v7//v/////+gsARAAAB9klEQVR42j1RA2BWYRQ9s63sZS/bbvjf32wzL9eybdtuGctadi1rtnXC96bz3qdzfS9YhZyCxPZAwz6XyVyyUlBSUEie6GXbuy3Q5RuzKwX5Yn2/fjg6+uLd28Nh/Yq5qOSfbPNSblAOU4zYyc5olURZUFrAz5slR4fYa44roka+XIvaGELI7vkwXDFbOvDD+VHx/FWfGsAS9eOEoIAxktssl5l5e48x3un3YMGbYAeE/1jJL2KcQwznfeCSG2/0oCNEQ1HAL+GuISGOy5kydeHSUxwACxUh6AlyizTdJ1Jxi7yz/zW/NoIxhKAb+EwZFjjGcXEGSyiwC0ZqsqAfuF2KDJioOM6c7Mz8LPYXpArMsQA/p7mFBPl6vpOLzC2kDUwBLeAC7kkTAiIcVwv63AsytTn0ATO0LsRJhxk+Y6WjfGsDnVFMaAxdqJpjLnFQMcVntPSU7WACbGVTGMAYzVKJI4rJ/t7uRZtgpV0dLdgRJmoG2MdsnFFMClYuYydYQN0AV+xRQ5TNXOK5MnS8w+6PdWEIWMHjPizQg4WFRPoixyi70+ehqQHBdX9viIEVoz3rMMfu6h7UNDExq4Z6+rXWk4WUBcXrJIfHa1COOn3j5DJlQQGTNw66+aBDS+smbbqujCOzWQawgDx0iUz7lUAKupDl+A+DcDj2CubikgAAAABJRU5ErkJggg==)](https://www.rackspace.com)
+
+### AWS Products & Services
+[![ACM](https://img.shields.io/badge/-ACM-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/acm/)
+[![API Gateway](https://img.shields.io/badge/-API_Gateway-000?logo=amazon-api-gateway&logoColor=F90)](https://aws.amazon.com/api-gateway/)
+[![CloudFormation](https://img.shields.io/badge/-CloudFormation-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/cloudformation/)
+[![CloudFront](https://img.shields.io/badge/-CloudFront-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/cloudfront/)
+[![CloudWatch](https://img.shields.io/badge/-CloudWatch-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/cloudwatch/)
+[![CodePipeline](https://img.shields.io/badge/-CodePipeline-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/codepipeline/)
+[![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?logo=amazon-dynamodb&logoColor=F90)](https://aws.amazon.com/dynamodb/)
+<br>
+[![EC2](https://img.shields.io/badge/-EC2-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/ec2/)
+[![ElasticBeanstalk](https://img.shields.io/badge/-ElasticBeanstalk-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/elasticbeanstalk/)
+[![Elasticache](https://img.shields.io/badge/-Elasticache-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/elasticache/)
+[![IAM](https://img.shields.io/badge/-IAM-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/iam/)
+[![Lambda](https://img.shields.io/badge/-Lambda-000?logo=aws-lambda&logoColor=F90)](https://aws.amazon.com/lambda/)
+[![RDS](https://img.shields.io/badge/-RDS-000?logo=amazon-rds&logoColor=F90)](https://aws.amazon.com/rds/)
+[![Route53](https://img.shields.io/badge/-Route53-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/route53/)
+[![S3](https://img.shields.io/badge/-S3-000?logo=amazon-s3&logoColor=F90)](https://aws.amazon.com/s3/)
+<br>
+[![SQS](https://img.shields.io/badge/-SQS-000?logo=amazon-sqs&logoColor=F90)](https://aws.amazon.com/sqs/)
+[![SecretsManager](https://img.shields.io/badge/-SecretsManager-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/secrets-manager/)
+[![VPC](https://img.shields.io/badge/-VPC-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/vpc/)
 
 ### Data Engineering
 [![AirByte](https://img.shields.io/badge/-Airbyte-000?logo=Airbyte)](https://airbyte.com/)
