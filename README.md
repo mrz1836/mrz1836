@@ -44,13 +44,14 @@
 ### AWS Products & Services
 [![ACM](https://img.shields.io/badge/-ACM-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/acm/)
 [![API Gateway](https://img.shields.io/badge/-API_Gateway-000?logo=amazon-api-gateway&logoColor=F90)](https://aws.amazon.com/api-gateway/)
+[![Athena](https://img.shields.io/badge/-Athena-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/athena/)
 [![CloudFormation](https://img.shields.io/badge/-CloudFormation-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/cloudformation/)
 [![CloudFront](https://img.shields.io/badge/-CloudFront-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/cloudfront/)
 [![CloudWatch](https://img.shields.io/badge/-CloudWatch-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/cloudwatch/)
 [![CodeBuild](https://img.shields.io/badge/-CodeBuild-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/codebuild/)
 [![CodePipeline](https://img.shields.io/badge/-CodePipeline-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/codepipeline/)
-[![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?logo=amazon-dynamodb&logoColor=F90)](https://aws.amazon.com/dynamodb/)
 <br>
+[![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?logo=amazon-dynamodb&logoColor=F90)](https://aws.amazon.com/dynamodb/)
 [![EC2](https://img.shields.io/badge/-EC2-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/ec2/)
 [![EC2-ELB](https://img.shields.io/badge/-EC2_ELB-000?logo=amazon-ec2&logoColor=F90)](https://aws.amazon.com/elasticloadbalancing/)
 [![ElasticBeanstalk](https://img.shields.io/badge/-ElasticBeanstalk-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/elasticbeanstalk/)
@@ -60,8 +61,8 @@
 [![KMS](https://img.shields.io/badge/-KMS-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/kms/)
 [![RDS](https://img.shields.io/badge/-RDS-000?logo=amazon-rds&logoColor=F90)](https://aws.amazon.com/rds/)
 [![Route53](https://img.shields.io/badge/-Route53-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/route53/)
-[![S3](https://img.shields.io/badge/-S3-000?logo=amazon-s3&logoColor=F90)](https://aws.amazon.com/s3/)
 <br>
+[![S3](https://img.shields.io/badge/-S3-000?logo=amazon-s3&logoColor=F90)](https://aws.amazon.com/s3/)
 [![SNS](https://img.shields.io/badge/-SNS-000?logo=amazon-aws&logoColor=F90)](https://aws.amazon.com/sns/)
 [![SQS](https://img.shields.io/badge/-SQS-000?logo=amazon-sqs&logoColor=F90)](https://aws.amazon.com/sqs/)
 [![SecretsManager](https://img.shields.io/badge/-SecretsManager-000?logo=amazon-cloudwatch&logoColor=F90)](https://aws.amazon.com/secrets-manager/)
@@ -152,6 +153,7 @@
 [![OpenVPN](https://img.shields.io/badge/-OpenVPN-000?logo=OpenVPN)](https://openvpn.net/)
 [![QuickBase](https://img.shields.io/badge/-QuickBase-000?logo=data:image/jpeg;base64,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)](https://www.quickbase.com/)
 [![Quickbooks](https://img.shields.io/badge/-QuickBooks-000?logo=Quickbooks)](https://quickbooks.intuit.com/)
+[![ReTool](https://img.shields.io/badge/-ReTool-000?logo=revolut)](https://retool.com/)
 [![SauceLabs](https://img.shields.io/badge/-SauceLabs-000?logo=SauceLabs)](https://saucelabs.com/)
 <br>
 [![Slack](https://img.shields.io/badge/-Slack-000?logo=Slack&logoColor=yellow)](https://slack.com/)
@@ -168,7 +170,7 @@
 <br>
 
 <a href="https://github.com/mrz1836">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrz1836&theme=dark" alt="Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=mrz1836&theme=dark" alt="Streak" />
 </a>
 &nbsp;
 <a href="https://github.com/mrz1836">
