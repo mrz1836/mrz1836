@@ -170,8 +170,11 @@
 <br>
 
 <a href="https://github.com/mrz1836">
-  <img align="center" src="https://streak-stats.demolab.com/?user=mrz1836&theme=dark" alt="Streak" />
+  <img align="center" src="https://i.imgur.com/mrllxtO.png" height="175"  alt="Streak" />
 </a>
+<!-- <a href="https://github.com/mrz1836">
+  <img align="center" src="https://streak-stats.demolab.com/?user=mrz1836&theme=dark" alt="Streak" />
+</a> -->
 &nbsp;
 <a href="https://github.com/mrz1836">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrz1836&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide_title=true" alt="Languages" />
