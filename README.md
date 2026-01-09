@@ -41,12 +41,15 @@
 * 💸 **[paymail-inspector](https://github.com/mrz1836/paymail-inspector)** — CLI app for paymail service providers `48★`
 * 📮 **[go-paymail](https://github.com/bsv-blockchain/go-paymail)** — Paymail toolkit for Go with full-stack client and server support `13★`
 * 🔗 **[go-whatsonchain](https://github.com/mrz1836/go-whatsonchain)** — Unofficial WhatsOnChain API SDK `15★`
+* ⛏️ **[go-minercraft](https://github.com/tonicpow/go-minercraft)** — Interact with Bitcoin Miner APIs `14★` `📦 archived`
 * ⚓ **[docker-bitcoinsv](https://github.com/mrz1836/docker-bitcoinsv)** — Launch a Bitcoin SV node using Docker `22★` `📦 archived`
 * 🔗 **[go-preev](https://github.com/mrz1836/go-preev)** — Unofficial Preev API implementation `📦 archived`
 * 🎭 **[go-polynym](https://github.com/mrz1836/go-polynym)** — Unofficial Polynym.io API implementation `📦 archived`
 * 💽 **[go-bitindex](https://github.com/mrz1836/go-bitindex)** — Unofficial BitIndex API implementation `📦 archived`
 * ☁️ **[go-mattercloud](https://github.com/mrz1836/go-mattercloud)** — Unofficial MatterCloud API implementation `📦 archived`
 * 🔗 **[go-nownodes](https://github.com/mrz1836/go-nownodes)** — Unofficial NOWNodes API implementation `📦 archived`
+* 💵 **[go-moneybutton](https://github.com/tonicpow/go-moneybutton)** — Unofficial MoneyButton API implementation `5★` `📦 archived`
+* 📈 **[go-bsvrates](https://github.com/tonicpow/go-bsvrates)** — Real-time BSV exchange rates with multi-provider failover `12★` `📦 archived`
 
 **Infrastructure & DevOps**
 * 📡 **[go-broadcast](https://github.com/mrz1836/go-broadcast)** — Stateless file sync orchestrator for multi-repo management
