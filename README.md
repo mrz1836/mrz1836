@@ -1,17 +1,10 @@
-```
-$ whoami
-```
+<h1 align="center">Austin (Mr. Z)</h1>
 
-# Austin (Mr. Z)
-
-> Software Engineer • Open Source Hacker • Go Gopher
-
-```bash
-$ cat /etc/profile
-LOCATION="Earth"
-LANGUAGES=("Go" "TypeScript" "Python" "Bash")
-INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
-```
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Open+Source+Builder;Go+Enthusiast;Bitcoin+Developer;DevOps;Hacker;Entrepreneur" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
     <a href="https://github.com/mrz1836"><img src="https://img.shields.io/github/followers/mrz1836?label=follow&style=social" alt="GitHub Followers" /></a>&nbsp;&nbsp;
@@ -21,7 +14,7 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 
 ---
 
-## `> ls ~/projects/go-libraries`
+## **Open-Source Projects**
 
 **Email & Communication**
 * 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `64★`
@@ -76,10 +69,7 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 
 ---
 
-<details>
-<summary><code>$ cat ~/.skills/languages</code></summary>
-
-<br>
+### **Languages**
 
 [![Go](https://img.shields.io/badge/-Go-000?logo=Go)](https://golang.org/dl/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript)](https://www.typescriptlang.org/download)
@@ -93,12 +83,7 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 [![Script](https://img.shields.io/badge/-Script-000?logo=BitcoinSV)](https://bitcoinsv.io)
 [![Pirate](https://img.shields.io/badge/-Pirate-000?logo=HackADay)](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day)
 
-</details>
-
-<details>
-<summary><code>$ cat ~/.skills/methodologies</code></summary>
-
-<br>
+### **Methodologies**
 
 [![12 Factor](https://img.shields.io/badge/-12Factor-000?logo=VectorWorks)](https://12factor.net/)
 [![Containerization](https://img.shields.io/badge/-Containerization-000?logo=OpenContainersInitiative)](https://www.ibm.com/topics/containerization)
@@ -108,12 +93,7 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 [![FDD](https://img.shields.io/badge/-FDD-000?logo=FutureLearn)](https://en.wikipedia.org/wiki/Feature-driven_development)
 [![CI & CD](https://img.shields.io/badge/-CI_&_CD-000?logo=Contentful&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
 
-</details>
-
-<details>
-<summary><code>$ cat ~/.skills/cloud</code></summary>
-
-<br>
+### **Cloud**
 
 [![AWS](https://img.shields.io/badge/-AWS-000?logo=alamy&logoColor=F90)](https://aws.amazon.com/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?logo=DigitalOcean)](https://www.digitalocean.com/)
@@ -146,12 +126,7 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 [![SecretsManager](https://img.shields.io/badge/-SecretsManager-000?logo=alamy&logoColor=F90)](https://aws.amazon.com/secrets-manager/)
 [![VPC](https://img.shields.io/badge/-VPC-000?logo=alamy&logoColor=F90)](https://aws.amazon.com/vpc/)
 
-</details>
-
-<details>
-<summary><code>$ cat ~/.skills/data</code></summary>
-
-<br>
+### **Data**
 
 [![AirByte](https://img.shields.io/badge/-Airbyte-000?logo=Airbyte)](https://airbyte.com/)
 [![DBT](https://img.shields.io/badge/-DBT-000?logo=DBT)](https://www.getdbt.com/)
@@ -161,12 +136,7 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 [![SQLite](https://img.shields.io/badge/-SQLite-000?logo=SQLite)](https://www.sqlite.org)
 [![Timescale](https://img.shields.io/badge/-Timescale-000?logo=Timescale)](https://www.timescale.com/)
 
-</details>
-
-<details>
-<summary><code>$ cat ~/.skills/technologies</code></summary>
-
-<br>
+### **Technologies**
 
 [![BitCoin](https://img.shields.io/badge/-BitCoin-000?logo=BitcoinSV)](https://bitcoinsv.io)
 [![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)](https://hub.docker.com/)
@@ -183,23 +153,13 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 [![Tor](https://img.shields.io/badge/-TOR-000?logo=TorProject&logoColor=green)](https://www.torproject.org/)
 [![Yarn](https://img.shields.io/badge/-Yarn-000?logo=Yarn)](https://yarnpkg.com/)
 
-</details>
-
-<details>
-<summary><code>$ cat ~/.skills/os</code></summary>
-
-<br>
+### **Operating Systems**
 
 [![Kali](https://img.shields.io/badge/-Kali-000?logo=KaliLinux&logoColor=white)](https://www.kali.org/)
 [![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)](https://www.linux.org/)
 [![MacOS](https://img.shields.io/badge/-MacOS-000?logo=macos)](https://www.apple.com/macos/)
 
-</details>
-
-<details>
-<summary><code>$ cat ~/.skills/integrations</code></summary>
-
-<br>
+### **Integrations**
 
 [![All Contributors](https://img.shields.io/badge/-AllContributors-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAATCAMAAAC9bj0JAAABdFBMVEUAAI4IAJJST6Bwbqx5d6+Bf7SEg7aXlr+bmsKcm8GxsM6yruizr+m0sOm1sem3tOm5teq6tuq6t+q7t+q8uOu8ueu9ueu+uuu+u+u+u+y+vdXAvezBvuzCv+zDwO3Ewe3Ewu3Fwu3Gw+3Ixe7Jx+7KyO/Kyd3LyO/Lye/Nyu/NzN7Oy+/OzPDPzfDQzvDRz/DS0PHT0fHU0vHU0vLU0/HU1OPV0/LW1PLX1fLX1+XY1vLY1vPY1/PZ1/PZ2PPa2PPa2fPb2fPc2vTc2+jc2/Te3PTe3fTe3unf3vXg3/Xh4PXh4ezi4PXi4fbk4/bm5ffm5u/n5vfo5/fp6Pjp6fjq6fjr6vjs6/ns7PPt7Pnt7fnv7vnv7/Xw7/rx8fbx8frz8vvz8/v08/j08/v09Pj09Pv19Pv19Pz19fz29vz39/r4+Pz4+P35+P35+f36+vz6+v37+v37+/z7+/37+/78/P38/P79/f39/f7+/v7+/v////8KuzjqAAABKklEQVR42kzNY4MbYRRA4a21qhHbtm0ntW1z5p4/37yTYs/X52ILlXAwEWADyH/SAAOEN+9nZkE0XdNEeHnx8bMvCjQqOVcXXafnBYRQ0n8DUTDZzSWe8GN+9HDrK9yMJ848WYPwYhWzlb/x6fShrRNP4XXc0l5+Zg2PdhalCsC1U6Ah4WFnT4zn+W3zdUYFnt9HNb60MzNO3WuuOglOHhMgmOFbeLqqf1Snvu+bz9fl7UN+8enIcfkQvXrOjahTT7LTyBh0dG4/JNHo1z9vYOmJX6h2QRnF2n7e/UQBkHdMy77sHX4yyNumbesEwQBm8bOprA+4PHCZ0g8QDBAehfMLi+Xuy8V+YBHLvoMNqN7Yna/kG7euhAX+g+j8S/Tfg0ogRKAYpgMHAABiCK8H7e7sGwAAAABJRU5ErkJggg==)](https://allcontributors.org/)
 [![Anthropic](https://img.shields.io/badge/-Anthropic-000?logo=anthropic)](https://anthropic.com/)
@@ -220,12 +180,7 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 [![Travis](https://img.shields.io/badge/-Travis-000?logo=Travis)](https://travis-ci.org/)
 [![Twilio](https://img.shields.io/badge/-Twilio-000?logo=Twilio)](https://www.twilio.com/)
 
-</details>
-
-<details>
-<summary><code>$ cat ~/.skills/implementations</code></summary>
-
-<br>
+### **Implementations**
 
 [![AdWords](https://img.shields.io/badge/-AdWords-000?logo=GoogleAds)](https://ads.google.com)
 [![Analytics](https://img.shields.io/badge/-Analytics-000?logo=GoogleAnalytics)](https://analytics.google.com/)
@@ -245,35 +200,8 @@ INTERESTS=("bitcoin" "devops" "clean-code" "open-source")
 [![SquareSpace](https://img.shields.io/badge/-SquareSpace-000?logo=SquareSpace)](https://www.squarespace.com/)
 [![ZenDesk](https://img.shields.io/badge/-ZenDesk-000?logo=ZenDesk)](https://www.zendesk.com/)
 
-</details>
-
-<details>
-<summary><code>$ cat ~/.philosophy</code></summary>
-
-<br>
-
-```bash
-#!/bin/bash
-# life.sh
-
-MANTRAS=(
-  "Ship beats perfect"
-  "rm -rf doubt"
-  "Security is a feature, not a checkbox"
-  "Code is poetry, but working code is prose"
-  "Open source everything"
-)
-
-# Fun facts
-echo "I speak Pirate 🏴‍☠️"
-echo "Bitcoin believer (BSV)"
-echo "100% test coverage or bust"
-```
-
-</details>
-
 ---
 
 <p align="center">
-  <code>$ echo "Thanks for stopping by!"</code>
+  <i>Thanks for stopping by!</i>
 </p>
