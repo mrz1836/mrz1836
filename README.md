@@ -12,7 +12,15 @@
     <a href="https://www.linkedin.com/in/mrz1818"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+
+
+## **Milestones**
+
+* 🚀 **[Delivery Dudes](https://en.wikipedia.org/wiki/Delivery_Dudes)** — Co-Founder & CTO `$23M Exit to Waitr`
+* 💎 **[BUX](https://github.com/buxorg)** — Co-Creator `Acquired by BSV Association`
+* 🥈 **[TonicPow](https://github.com/tonicpow)** — BSV Hackathon 2019 `2nd Place • 200+ entrants • 19 countries`
+
+<br>
 
 ## **Open-Source Projects**
 
@@ -67,7 +75,11 @@
 * 🌌 **[go-lucky](https://github.com/mrz1836/go-lucky)** — Lottery analyzer with cosmic correlations & statistical wizardry
 * 💸 **[go-invoice](https://github.com/mrz1836/go-invoice)** — Fast CLI with MCP support for invoice & time tracking
 
+<br>
+
 ---
+
+<br>
 
 ### **Languages**
 
