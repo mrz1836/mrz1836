@@ -37,6 +37,7 @@
 * 🔍 **[go-meta-extractor](https://github.com/mrz1836/go-meta-extractor)** — Meta intelligence extraction for Go
 
 **Bitcoin & Blockchain**
+* ₿ **[go-bitcoin](https://github.com/BitcoinSchema/go-bitcoin)** — Library for working with Bitcoin transactions, addresses, keys & encryption `31★`
 * 💸 **[paymail-inspector](https://github.com/mrz1836/paymail-inspector)** — CLI app for paymail service providers `48★`
 * 📮 **[go-paymail](https://github.com/bsv-blockchain/go-paymail)** — Paymail toolkit for Go with full-stack client and server support `13★`
 * 🔗 **[go-whatsonchain](https://github.com/mrz1836/go-whatsonchain)** — Unofficial WhatsOnChain API SDK `15★`
