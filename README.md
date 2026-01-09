@@ -38,6 +38,7 @@
 
 **Bitcoin & Blockchain**
 * 💸 **[paymail-inspector](https://github.com/mrz1836/paymail-inspector)** — CLI app for paymail service providers `48★`
+* 📮 **[go-paymail](https://github.com/bsv-blockchain/go-paymail)** — Paymail toolkit for Go with full-stack client and server support `13★`
 * 🔗 **[go-whatsonchain](https://github.com/mrz1836/go-whatsonchain)** — Unofficial WhatsOnChain API SDK `15★`
 * ⚓ **[docker-bitcoinsv](https://github.com/mrz1836/docker-bitcoinsv)** — Launch a Bitcoin SV node using Docker `22★` `📦 archived`
 * 🔗 **[go-preev](https://github.com/mrz1836/go-preev)** — Unofficial Preev API implementation `📦 archived`
