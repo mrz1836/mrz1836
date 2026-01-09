@@ -161,8 +161,7 @@
 [![ZenDesk](https://img.shields.io/badge/-ZenDesk-000?logo=ZenDesk)](https://www.zendesk.com/)
 
 
-<br>
-
+<!-- 
 ### Statistics
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrz1836&theme=onedark&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/mrz1836)
@@ -171,11 +170,10 @@
 
 <a href="https://github.com/mrz1836?tab=repositories">
   <img align="center" src="https://i.imgur.com/mrllxtO.png" height="175"  alt="Streak" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/mrz1836?tab=repositories">
   <img align="center" src="https://streak-stats.demolab.com/?user=mrz1836&theme=dark" alt="Streak" />
-</a> -->
-&nbsp;
-<a href="https://github.com/mrz1836?tab=repositories">
+</a> &nbsp; -->
+<!-- <a href="https://github.com/mrz1836?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrz1836&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide_title=true" alt="Languages" />
-</a>
+</a> -->
