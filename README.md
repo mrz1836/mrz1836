@@ -74,6 +74,7 @@
 
 **Third-Party Integrations**
 * 👨‍👩‍👦 **[go-pipl](https://github.com/mrz1836/go-pipl)** — Unofficial Pipl.com API SDK
+* 📄 **[go-pandadoc](https://github.com/mrz1836/go-pandadoc)** — Unofficial PandaDocs API SDK for Go
 * 🔗 **[go-customerio](https://github.com/mrz1836/go-customerio)** — Unofficial Customer.io API client `📦 archived`
 * 🐙 **[codepipeline-to-github](https://github.com/mrz1836/codepipeline-to-github)** — Update GitHub commit status via CodePipeline events
 
