@@ -53,6 +53,7 @@
 * 📈 **[go-bsvrates](https://github.com/tonicpow/go-bsvrates)** — Real-time BSV exchange rates with multi-provider failover `12★` `📦 archived`
 
 **Infrastructure & DevOps**
+* 🗺️ **[atlas](https://github.com/mrz1836/atlas)** — AI Task Lifecycle Automation System for Go projects `1★`
 * 📡 **[go-broadcast](https://github.com/mrz1836/go-broadcast)** — Stateless file sync orchestrator for multi-repo management
 * 📊 **[go-coverage](https://github.com/mrz1836/go-coverage)** — Your coverage. Your infrastructure. Pure Go.
 * 🏰 **[go-fortress](https://github.com/mrz1836/go-fortress)** — Enterprise-grade CI/CD fortress for Go applications
