@@ -16,9 +16,20 @@
 
 ## **Milestones**
 
-* 🚀 **[Delivery Dudes](https://en.wikipedia.org/wiki/Delivery_Dudes)** — Co-Founder & CTO `$23M Exit to Waitr`
-* 💎 **[BUX](https://github.com/buxorg)** — Co-Creator `Acquired by BSV Association`
-* 🥈 **[TonicPow](https://github.com/tonicpow)** — BSV Hackathon 2019 `2nd Place • 200+ entrants • 19 countries`
+<table>
+<tr>
+<td><a href="https://github.com/deliverydudes"><img src="https://avatars.githubusercontent.com/u/12222596?v=4" height="25" style="border-radius:50%" alt="Delivery Dudes" /></a></td>
+<td><b><a href="https://en.wikipedia.org/wiki/Delivery_Dudes">Delivery Dudes</a></b> — Co-Founder & CTO <code>$23M Exit to Waitr</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/buxorg"><img src="https://avatars.githubusercontent.com/u/98559231?v=4" height="25" style="border-radius:50%" alt="BUX" /></a></td>
+<td><b><a href="https://github.com/buxorg">BUX</a></b> — Co-Creator <code>Acquired by BSV Association</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/tonicpow"><img src="https://avatars.githubusercontent.com/u/50292777?v=4" height="25" style="border-radius:50%" alt="TonicPow" /></a></td>
+<td><b><a href="https://github.com/tonicpow">TonicPow</a></b> — BSV Hackathon 2019 <code>2nd Place • 200+ entrants • 19 countries</code></td>
+</tr>
+</table>
 
 <br>
 
