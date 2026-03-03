@@ -24,17 +24,71 @@
 
 ## **Open-Source Projects**
 
-**Email & Communication**
-* 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `64★`
-* 📨 **[go-mail](https://github.com/mrz1836/go-mail)** — Email interface across SES, Postmark, Mandrill, SMTP `44★`
-* 📨 **[go-ses](https://github.com/mrz1836/go-ses)** — Amazon AWS Simple Email Service client for Go `📦 archived`
-* 💬 **[go-drift](https://github.com/mrz1836/go-drift)** — Unofficial Go implementation for the Drift API
-
-**Data & Validation**
-* 🛁 **[go-sanitize](https://github.com/mrz1836/go-sanitize)** — Robust string sanitization & normalization utilities `47★`
-* ⚡ **[go-validate](https://github.com/mrz1836/go-validate)** — Powerful struct field validation via tags
-* 🌐 **[go-countries](https://github.com/mrz1836/go-countries)** — Comprehensive country data in all ISO formats
-* 🔍 **[go-meta-extractor](https://github.com/mrz1836/go-meta-extractor)** — Meta intelligence extraction for Go
+<table>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/mage-x"><img src="https://raw.githubusercontent.com/mrz1836/mage-x/master/.github/images/share-image.png" width="260" alt="mage-x" /></a>
+</td>
+<td>
+<b><a href="https://github.com/mrz1836/mage-x">mage-x</a></b><br>
+190+ professional build commands, zero configuration. Drop-in Mage replacement that auto-detects your project structure and just works — single binary, multi-binary, or library. Cross-platform builds with CPU-aware optimization and professional release tooling.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/go-fortress"><img src="https://raw.githubusercontent.com/mrz1836/go-fortress/master/.github/IMAGES/share-image.png" width="260" alt="go-fortress" /></a>
+</td>
+<td>
+<b><a href="https://github.com/mrz1836/go-fortress">go-fortress</a></b><br>
+Enterprise CI/CD fortress with 14+ parallel jobs that complete in 2-3 minutes. 18 specialized workflows for security scanning, 60+ linters, race detection, and coverage intelligence with 90-day history. 225+ configurable parameters, zero YAML editing.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/go-pre-commit"><img src="https://raw.githubusercontent.com/mrz1836/go-pre-commit/master/.github/images/share-image.png" width="260" alt="go-pre-commit" /></a>
+</td>
+<td>
+<b><a href="https://github.com/mrz1836/go-pre-commit">go-pre-commit</a></b><br>
+Pure Go pre-commit hooks that are 17x faster than Python-based alternatives. Six parallel built-in checks with auto-fix and auto-staging — sub-second processing for complete commit workflows. Plugin system for custom checks in any language.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/go-coverage"><img src="https://raw.githubusercontent.com/mrz1836/go-coverage/master/.github/images/share-image.png" width="260" alt="go-coverage" /></a>
+</td>
+<td>
+<b><a href="https://github.com/mrz1836/go-coverage">go-coverage</a></b><br>
+Self-hosted Codecov replacement that runs entirely in your CI/CD pipeline. SVG badges, HTML dashboards, PR comments, and GitHub Pages deployment with 90-day trend tracking. Adds less than 2 seconds to your workflow.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/go-template"><img src="https://raw.githubusercontent.com/mrz1836/go-template/master/.github/IMAGES/share-image.png" width="260" alt="go-template" /></a>
+</td>
+<td>
+<b><a href="https://github.com/mrz1836/go-template">go-template</a></b> <code>18★</code><br>
+Clone-to-release in under 5 minutes. Production-grade Go library scaffold with table-driven tests, benchmarks, fuzz tests, mage-x integration, and pre-wired CI/CD. Fortified with Dependabot, CodeQL, and OpenSSF Scorecard.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/atlas"><img src="https://raw.githubusercontent.com/mrz1836/atlas/master/.github/images/share-image.png" width="260" alt="atlas" /></a>
+</td>
+<td>
+<b><a href="https://github.com/mrz1836/atlas">atlas</a></b><br>
+AI-assisted development platform using spec-driven development with checkpoint approval systems. Analyzes your codebase, generates implementation plans, auto-fixes lint and test failures — all through isolated Git worktrees with human-in-the-loop control.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/go-broadcast"><img src="https://raw.githubusercontent.com/mrz1836/go-broadcast/master/.github/images/share-image.png" width="260" alt="go-broadcast" /></a>
+</td>
+<td>
+<b><a href="https://github.com/mrz1836/go-broadcast">go-broadcast</a></b><br>
+Stateless file sync orchestrator that keeps files consistent across repositories. 587M+ ops/sec binary detection, smart diff, variable substitution, and automatic PR creation. All state derived from GitHub — zero persistence required.
+</td>
+</tr>
+</table>
 
 **Bitcoin & Blockchain**
 * ₿ **[go-bitcoin](https://github.com/BitcoinSchema/go-bitcoin)** — Library for working with Bitcoin transactions, addresses, keys & encryption `31★`
@@ -42,46 +96,49 @@
 * 💸 **[paymail-inspector](https://github.com/mrz1836/paymail-inspector)** — CLI app for paymail service providers `48★`
 * 📮 **[go-paymail](https://github.com/bsv-blockchain/go-paymail)** — Paymail toolkit for Go with full-stack client and server support `13★`
 * 🔗 **[go-whatsonchain](https://github.com/mrz1836/go-whatsonchain)** — Unofficial WhatsOnChain API SDK `15★`
-* ⛏️ **[go-minercraft](https://github.com/tonicpow/go-minercraft)** — Interact with Bitcoin Miner APIs `14★` `📦 archived`
-* ⚓ **[docker-bitcoinsv](https://github.com/mrz1836/docker-bitcoinsv)** — Launch a Bitcoin SV node using Docker `22★` `📦 archived`
-* 🔗 **[go-preev](https://github.com/mrz1836/go-preev)** — Unofficial Preev API implementation `📦 archived`
-* 🎭 **[go-polynym](https://github.com/mrz1836/go-polynym)** — Unofficial Polynym.io API implementation `📦 archived`
-* 💽 **[go-bitindex](https://github.com/mrz1836/go-bitindex)** — Unofficial BitIndex API implementation `📦 archived`
-* ☁️ **[go-mattercloud](https://github.com/mrz1836/go-mattercloud)** — Unofficial MatterCloud API implementation `📦 archived`
-* 🔗 **[go-nownodes](https://github.com/mrz1836/go-nownodes)** — Unofficial NOWNodes API implementation `📦 archived`
-* 💵 **[go-moneybutton](https://github.com/tonicpow/go-moneybutton)** — Unofficial MoneyButton API implementation `5★` `📦 archived`
-* 📈 **[go-bsvrates](https://github.com/tonicpow/go-bsvrates)** — Real-time BSV exchange rates with multi-provider failover `12★` `📦 archived`
 
-**Infrastructure & DevOps**
-* 🗺️ **[atlas](https://github.com/mrz1836/atlas)** — AI Task Lifecycle Automation System for Go projects `1★`
-* 📡 **[go-broadcast](https://github.com/mrz1836/go-broadcast)** — Stateless file sync orchestrator for multi-repo management
-* 📊 **[go-coverage](https://github.com/mrz1836/go-coverage)** — Your coverage. Your infrastructure. Pure Go.
-* 🏰 **[go-fortress](https://github.com/mrz1836/go-fortress)** — Enterprise-grade CI/CD fortress for Go applications
-* 🔒 **[go-pre-commit](https://github.com/mrz1836/go-pre-commit)** — Lightning-fast Git pre-commit hooks in pure Go
-* 🪄 **[mage-x](https://github.com/mrz1836/mage-x)** — Write Once, Mage Everywhere: Zero-boilerplate build tooling
-* 🚀 **[go-template](https://github.com/mrz1836/go-template)** — From Zero to Go Hero: Pre-wired template for modern libraries `18★`
+**Web & API**
+* 🌐 **[go-api-router](https://github.com/mrz1836/go-api-router)** — Lightweight API middleware: CORS, logging, error handling
+* 📘 **[go-parameters](https://github.com/mrz1836/go-parameters)** — Easily parse incoming parameters from HTTP requests
+* 🔍 **[go-logger](https://github.com/mrz1836/go-logger)** — Easy to use, extendable and super fast logging
+* 📨 **[go-mail](https://github.com/mrz1836/go-mail)** — Email interface across SES, Postmark, Mandrill, SMTP `44★`
 * ✴️ **[go-api-gateway](https://github.com/mrz1836/go-api-gateway)** — Example using AWS API Gateway, Lambda and Go
+
+**Data & Validation**
+* 🛁 **[go-sanitize](https://github.com/mrz1836/go-sanitize)** — Robust string sanitization & normalization utilities `47★`
+* ⚡ **[go-validate](https://github.com/mrz1836/go-validate)** — Powerful struct field validation via tags
+* 🌐 **[go-countries](https://github.com/mrz1836/go-countries)** — Comprehensive country data in all ISO formats
+* 🔍 **[go-meta-extractor](https://github.com/mrz1836/go-meta-extractor)** — Meta intelligence extraction for Go
 
 **Caching & Storage**
 * 📑 **[go-cache](https://github.com/mrz1836/go-cache)** — Cache dependency management on-top of redigo
 * 📑 **[go-cachestore](https://github.com/mrz1836/go-cachestore)** — Simple cache access layer using Redis or FreeCache
 * 💾 **[go-datastore](https://github.com/mrz1836/go-datastore)** — Data layer using GORM for accessing models via Database
 
-**Web & API**
-* 🚀 **[go-api](https://github.com/mrz1836/go-api)** — Example API for inspiration on your new projects `10★` `📦 archived`
-* 🌐 **[go-api-router](https://github.com/mrz1836/go-api-router)** — Lightweight API middleware: CORS, logging, error handling
-* 📘 **[go-parameters](https://github.com/mrz1836/go-parameters)** — Easily parse incoming parameters from HTTP requests
-* 🔍 **[go-logger](https://github.com/mrz1836/go-logger)** — Easy to use, extendable and super fast logging
-
-**Third-Party Integrations**
+**Third-Party SDKs**
+* 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `64★`
 * 👨‍👩‍👦 **[go-pipl](https://github.com/mrz1836/go-pipl)** — Unofficial Pipl.com API SDK
 * 📄 **[go-pandadoc](https://github.com/mrz1836/go-pandadoc)** — Unofficial PandaDocs API SDK for Go
-* 🔗 **[go-customerio](https://github.com/mrz1836/go-customerio)** — Unofficial Customer.io API client `📦 archived`
+* 💬 **[go-drift](https://github.com/mrz1836/go-drift)** — Unofficial Go implementation for the Drift API
 * 🐙 **[codepipeline-to-github](https://github.com/mrz1836/codepipeline-to-github)** — Update GitHub commit status via CodePipeline events
 
 **Fun & Experiments**
 * 🌌 **[go-lucky](https://github.com/mrz1836/go-lucky)** — Lottery analyzer with cosmic correlations & statistical wizardry
 * 💸 **[go-invoice](https://github.com/mrz1836/go-invoice)** — Fast CLI with MCP support for invoice & time tracking
+
+**Archive**
+* ⛏️ **[go-minercraft](https://github.com/tonicpow/go-minercraft)** — Interact with Bitcoin Miner APIs `14★`
+* ⚓ **[docker-bitcoinsv](https://github.com/mrz1836/docker-bitcoinsv)** — Launch a Bitcoin SV node using Docker `22★`
+* 📈 **[go-bsvrates](https://github.com/tonicpow/go-bsvrates)** — Real-time BSV exchange rates with multi-provider failover `12★`
+* 🚀 **[go-api](https://github.com/mrz1836/go-api)** — Example API for inspiration on your new projects `10★`
+* 💵 **[go-moneybutton](https://github.com/tonicpow/go-moneybutton)** — Unofficial MoneyButton API implementation `5★`
+* 📨 **[go-ses](https://github.com/mrz1836/go-ses)** — Amazon AWS Simple Email Service client for Go
+* 🔗 **[go-customerio](https://github.com/mrz1836/go-customerio)** — Unofficial Customer.io API client
+* 🔗 **[go-preev](https://github.com/mrz1836/go-preev)** — Unofficial Preev API implementation
+* 🎭 **[go-polynym](https://github.com/mrz1836/go-polynym)** — Unofficial Polynym.io API implementation
+* 💽 **[go-bitindex](https://github.com/mrz1836/go-bitindex)** — Unofficial BitIndex API implementation
+* ☁️ **[go-mattercloud](https://github.com/mrz1836/go-mattercloud)** — Unofficial MatterCloud API implementation
+* 🔗 **[go-nownodes](https://github.com/mrz1836/go-nownodes)** — Unofficial NOWNodes API implementation
 
 <br>
 
