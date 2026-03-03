@@ -41,7 +41,6 @@
 <a href="https://github.com/mrz1836/atlas"><img src="https://raw.githubusercontent.com/mrz1836/atlas/master/.github/images/share-image.png" width="260" alt="atlas" /></a>
 </td>
 <td>
-<b><a href="https://github.com/mrz1836/atlas">atlas</a></b><br>
 AI-assisted development platform using spec-driven development with checkpoint approval systems. Analyzes your codebase, generates implementation plans, auto-fixes lint and test failures — all through isolated Git worktrees with human-in-the-loop control.
 </td>
 </tr>
@@ -50,7 +49,6 @@ AI-assisted development platform using spec-driven development with checkpoint a
 <a href="https://github.com/mrz1836/go-broadcast"><img src="https://raw.githubusercontent.com/mrz1836/go-broadcast/master/.github/images/share-image.png" width="260" alt="go-broadcast" /></a>
 </td>
 <td>
-<b><a href="https://github.com/mrz1836/go-broadcast">go-broadcast</a></b><br>
 Stateless file sync orchestrator that keeps files consistent across repositories. 587M+ ops/sec binary detection, smart diff, variable substitution, and automatic PR creation. All state derived from GitHub — zero persistence required.
 </td>
 </tr>
@@ -59,7 +57,6 @@ Stateless file sync orchestrator that keeps files consistent across repositories
 <a href="https://github.com/mrz1836/mage-x"><img src="https://raw.githubusercontent.com/mrz1836/mage-x/master/.github/images/share-image.png" width="260" alt="mage-x" /></a>
 </td>
 <td>
-<b><a href="https://github.com/mrz1836/mage-x">mage-x</a></b><br>
 190+ professional build commands, zero configuration. Drop-in Mage replacement that auto-detects your project structure and just works — single binary, multi-binary, or library. Cross-platform builds with CPU-aware optimization and professional release tooling.
 </td>
 </tr>
@@ -68,7 +65,6 @@ Stateless file sync orchestrator that keeps files consistent across repositories
 <a href="https://github.com/mrz1836/go-fortress"><img src="https://raw.githubusercontent.com/mrz1836/go-fortress/master/.github/IMAGES/share-image.png" width="260" alt="go-fortress" /></a>
 </td>
 <td>
-<b><a href="https://github.com/mrz1836/go-fortress">go-fortress</a></b><br>
 Enterprise CI/CD fortress with 14+ parallel jobs that complete in 2-3 minutes. 18 specialized workflows for security scanning, 60+ linters, race detection, and coverage intelligence with 90-day history. 225+ configurable parameters, zero YAML editing.
 </td>
 </tr>
@@ -77,7 +73,6 @@ Enterprise CI/CD fortress with 14+ parallel jobs that complete in 2-3 minutes. 1
 <a href="https://github.com/mrz1836/go-coverage"><img src="https://raw.githubusercontent.com/mrz1836/go-coverage/master/.github/images/share-image.png" width="260" alt="go-coverage" /></a>
 </td>
 <td>
-<b><a href="https://github.com/mrz1836/go-coverage">go-coverage</a></b><br>
 Self-hosted Codecov replacement that runs entirely in your CI/CD pipeline. SVG badges, HTML dashboards, PR comments, and GitHub Pages deployment with 90-day trend tracking. Adds less than 2 seconds to your workflow.
 </td>
 </tr>
@@ -86,7 +81,6 @@ Self-hosted Codecov replacement that runs entirely in your CI/CD pipeline. SVG b
 <a href="https://github.com/mrz1836/go-pre-commit"><img src="https://raw.githubusercontent.com/mrz1836/go-pre-commit/master/.github/images/share-image.png" width="260" alt="go-pre-commit" /></a>
 </td>
 <td>
-<b><a href="https://github.com/mrz1836/go-pre-commit">go-pre-commit</a></b><br>
 Pure Go pre-commit hooks that are 17x faster than Python-based alternatives. Six parallel built-in checks with auto-fix and auto-staging — sub-second processing for complete commit workflows. Plugin system for custom checks in any language.
 </td>
 </tr>
@@ -95,7 +89,6 @@ Pure Go pre-commit hooks that are 17x faster than Python-based alternatives. Six
 <a href="https://github.com/mrz1836/go-template"><img src="https://raw.githubusercontent.com/mrz1836/go-template/master/.github/IMAGES/share-image.png" width="260" alt="go-template" /></a>
 </td>
 <td>
-<b><a href="https://github.com/mrz1836/go-template">go-template</a></b> <code>18★</code><br>
 Clone-to-release in under 5 minutes. Production-grade Go library scaffold with table-driven tests, benchmarks, fuzz tests, mage-x integration, and pre-wired CI/CD. Fortified with Dependabot, CodeQL, and OpenSSF Scorecard.
 </td>
 </tr>
@@ -104,7 +97,6 @@ Clone-to-release in under 5 minutes. Production-grade Go library scaffold with t
 <a href="https://github.com/mrz1836/sigil"><img src="https://raw.githubusercontent.com/mrz1836/sigil/master/.github/images/share-image.png" width="260" alt="sigil" /></a>
 </td>
 <td>
-<b><a href="https://github.com/mrz1836/sigil">sigil</a></b><br>
 Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet support, Shamir's Secret Sharing, and UTXO control. Recovers funds from defunct services like Centbee, MoneyButton, and HandCash. Secure OS keychain integration, encrypted backups, and agent tokens for programmatic access.
 </td>
 </tr>
