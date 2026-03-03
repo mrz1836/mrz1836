@@ -88,11 +88,19 @@ Pure Go pre-commit hooks that are 17x faster than Python-based alternatives. Six
 Clone-to-release in under 5 minutes. Production-grade Go library scaffold with table-driven tests, benchmarks, fuzz tests, mage-x integration, and pre-wired CI/CD. Fortified with Dependabot, CodeQL, and OpenSSF Scorecard.
 </td>
 </tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/sigil"><img src="https://raw.githubusercontent.com/mrz1836/sigil/master/.github/images/share-image.png" width="260" alt="sigil" /></a>
+</td>
+<td>
+<b><a href="https://github.com/mrz1836/sigil">sigil</a></b><br>
+Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet support, Shamir's Secret Sharing, and UTXO control. Recovers funds from defunct services like Centbee, MoneyButton, and HandCash. Secure OS keychain integration, encrypted backups, and agent tokens for programmatic access.
+</td>
+</tr>
 </table>
 
 **Bitcoin & Blockchain**
 * ₿ **[go-bitcoin](https://github.com/BitcoinSchema/go-bitcoin)** — Library for working with Bitcoin transactions, addresses, keys & encryption `31★`
-* 🔮 **[sigil](https://github.com/mrz1836/sigil)** — Personal multi-chain wallet CLI — unlock your BSV, BTC, and ETH
 * 💸 **[paymail-inspector](https://github.com/mrz1836/paymail-inspector)** — CLI app for paymail service providers `48★`
 * 📮 **[go-paymail](https://github.com/bsv-blockchain/go-paymail)** — Paymail toolkit for Go with full-stack client and server support `13★`
 * 🔗 **[go-whatsonchain](https://github.com/mrz1836/go-whatsonchain)** — Unofficial WhatsOnChain API SDK `15★`
