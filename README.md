@@ -1,9 +1,7 @@
 <h1 align="center">Austin (Mr. Z)</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Open+Source+Builder;Go+Enthusiast;Bitcoin+Developer;DevOps;Hacker;Entrepreneur" alt="Typing SVG" />
-  </a>
 </p>
 
 <p align="center">
