@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/mrz1836"><img src="https://img.shields.io/github/followers/mrz1836?label=follow&style=social" alt="GitHub Followers" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/mrz1836"><img src="https://img.shields.io/github/followers/mrz1836" alt="GitHub Followers" /></a>&nbsp;&nbsp;
     <a href="https://twitter.com/mrz1818"><img src="https://img.shields.io/badge/follow-%40MrZ1818-1DA1F2?logo=twitter&style=social" alt="Twitter" /></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/mrz1818"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
