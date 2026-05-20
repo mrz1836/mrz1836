@@ -132,6 +132,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 🐙 **[codepipeline-to-github](https://github.com/mrz1836/codepipeline-to-github)** — Update GitHub commit status via CodePipeline events
 
 **Fun & Experiments**
+* 🤫 **[hush](https://github.com/mrz1836/hush)** — Discord-gated secrets broker for AI agents
 * 🌌 **[go-lucky](https://github.com/mrz1836/go-lucky)** — Lottery analyzer with cosmic correlations & statistical wizardry
 * 💸 **[go-invoice](https://github.com/mrz1836/go-invoice)** — Fast CLI with MCP support for invoice & time tracking
 
