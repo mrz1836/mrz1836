@@ -92,6 +92,22 @@ Clone-to-release in under 5 minutes. Production-grade Go library scaffold with t
 </tr>
 <tr>
 <td width="280">
+<a href="https://github.com/mrz1836/go-foundation"><img src="https://raw.githubusercontent.com/mrz1836/go-foundation/master/.github/IMAGES/share-image.png" width="260" alt="go-foundation" /></a>
+</td>
+<td>
+Domain-agnostic foundation kit that kills cross-service drift. One home for the plumbing every Go service re-implements — typed config, HTTP middleware, cursor pagination, generic repositories, pluggable secrets, DB, health, and observability — plus reusable testutil helpers. No business domain, no project-specific naming: assemble once, consume everywhere.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/go-flywheel"><img src="https://raw.githubusercontent.com/mrz1836/go-flywheel/master/.github/IMAGES/share-image.png" width="260" alt="go-flywheel" /></a>
+</td>
+<td>
+Durable job runtime that turns PostgreSQL or SQLite into a reliable work queue — no Redis, no broker, no external job server. Typed workers, a periodic scheduler, exponential-backoff retries, lease-based crash recovery, and an append-only per-run audit trail. Transactional idempotent enqueue with follow-up DAG jobs and an outbox pattern for exactly-once side effects.
+</td>
+</tr>
+<tr>
+<td width="280">
 <a href="https://github.com/mrz1836/sigil"><img src="https://raw.githubusercontent.com/mrz1836/sigil/master/.github/images/share-image.png" width="260" alt="sigil" /></a>
 </td>
 <td>
