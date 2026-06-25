@@ -124,6 +124,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 
 **Web & API**
 * 🌐 **[go-api-router](https://github.com/mrz1836/go-api-router)** — Lightweight API middleware: CORS, logging, error handling
+* 🎬 **[go-actions](https://github.com/mrz1836/go-actions)** — Typed HTTP actions with auto-generated OpenAPI 3.1 contracts
 * 📘 **[go-parameters](https://github.com/mrz1836/go-parameters)** — Easily parse incoming parameters from HTTP requests
 * 🔍 **[go-logger](https://github.com/mrz1836/go-logger)** — Easy to use, extendable and super fast logging
 * 📨 **[go-mail](https://github.com/mrz1836/go-mail)** — Email interface across SES, Postmark, Mandrill, SMTP `44★`
