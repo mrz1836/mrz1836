@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/buxorg"><img src="https://avatars.githubusercontent.com/u/98559231?v=4" height="25" style="border-radius:50%" alt="BUX" /></a></td>
-<td><b><a href="https://github.com/buxorg">BUX</a></b> — Co-Creator <code>Acquired by BSV Association</code></td>
+<td><b><a href="https://github.com/buxorg">BUX</a></b> — Co-Creator <code>Acquired by <a href="https://github.com/bsv-blockchain">BSV Association</a></code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/tonicpow"><img src="https://avatars.githubusercontent.com/u/50292777?v=4" height="25" style="border-radius:50%" alt="TonicPow" /></a></td>
