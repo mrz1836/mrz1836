@@ -27,6 +27,10 @@
 <td><a href="https://github.com/tonicpow"><img src="https://avatars.githubusercontent.com/u/50292777?v=4" height="25" style="border-radius:50%" alt="TonicPow" /></a></td>
 <td><b><a href="https://github.com/tonicpow">TonicPow</a></b> — BSV Hackathon 2019 <code>2nd Place • 200+ entrants • 19 countries</code></td>
 </tr>
+<tr>
+<td><a href="https://postmarkapp.com/developer/integration/community-libraries#erlang"><img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/postmark.png" height="25" style="border-radius:50%" alt="Postmark" /></a></td>
+<td><b><a href="https://postmarkapp.com/developer/integration/community-libraries#erlang">Postmark</a></b> — Author of the de facto Go SDK <code>Featured Community Library</code></td>
+</tr>
 </table>
 
 <br>
@@ -115,6 +119,9 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 </td>
 </tr>
 </table>
+
+<br>
+<br>
 
 **Bitcoin & Blockchain**
 * ₿ **[go-bitcoin](https://github.com/BitcoinSchema/go-bitcoin)** — Library for working with Bitcoin transactions, addresses, keys & encryption `31★`
