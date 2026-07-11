@@ -31,6 +31,10 @@
 <td><a href="https://postmarkapp.com/developer/integration/community-libraries#erlang"><img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/postmark.png" height="25" style="border-radius:50%" alt="Postmark" /></a></td>
 <td><b><a href="https://postmarkapp.com/developer/integration/community-libraries#erlang">Postmark</a></b> — Author of the de facto Go SDK <code>Featured Community Library</code></td>
 </tr>
+<tr>
+<td><a href="https://docs.whatsonchain.com/community-libraries"><img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/whatsonchain.png" height="25" style="border-radius:50%" alt="WhatsOnChain" /></a></td>
+<td><b><a href="https://docs.whatsonchain.com/community-libraries">WhatsOnChain</a></b> — Creator of the Go API client <code>Recommended Integration</code></td>
+</tr>
 </table>
 
 <br>
