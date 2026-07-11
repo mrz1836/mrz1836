@@ -44,14 +44,6 @@ AI-assisted development platform using spec-driven development with checkpoint a
 </tr>
 <tr>
 <td width="280">
-<a href="https://github.com/mrz1836/go-broadcast"><img src="https://raw.githubusercontent.com/mrz1836/go-broadcast/master/.github/images/share-image.png" width="260" alt="go-broadcast" /></a>
-</td>
-<td>
-Stateless file sync orchestrator that keeps files consistent across repositories. 587M+ ops/sec binary detection, smart diff, variable substitution, and automatic PR creation. All state derived from GitHub — zero persistence required.
-</td>
-</tr>
-<tr>
-<td width="280">
 <a href="https://github.com/mrz1836/mage-x"><img src="https://raw.githubusercontent.com/mrz1836/mage-x/master/.github/images/share-image.png" width="260" alt="mage-x" /></a>
 </td>
 <td>
@@ -84,18 +76,10 @@ Pure Go pre-commit hooks that are 17x faster than Python-based alternatives. Six
 </tr>
 <tr>
 <td width="280">
-<a href="https://github.com/mrz1836/go-template"><img src="https://raw.githubusercontent.com/mrz1836/go-template/master/.github/IMAGES/share-image.png" width="260" alt="go-template" /></a>
+<a href="https://github.com/mrz1836/go-broadcast"><img src="https://raw.githubusercontent.com/mrz1836/go-broadcast/master/.github/images/share-image.png" width="260" alt="go-broadcast" /></a>
 </td>
 <td>
-Clone-to-release in under 5 minutes. Production-grade Go library scaffold with table-driven tests, benchmarks, fuzz tests, mage-x integration, and pre-wired CI/CD. Fortified with Dependabot, CodeQL, and OpenSSF Scorecard.
-</td>
-</tr>
-<tr>
-<td width="280">
-<a href="https://github.com/mrz1836/go-foundation"><img src="https://raw.githubusercontent.com/mrz1836/go-foundation/master/.github/IMAGES/share-image.png" width="260" alt="go-foundation" /></a>
-</td>
-<td>
-Domain-agnostic foundation kit that kills cross-service drift. One home for the plumbing every Go service re-implements — typed config, HTTP middleware, cursor pagination, generic repositories, pluggable secrets, DB, health, and observability — plus reusable testutil helpers. No business domain, no project-specific naming: assemble once, consume everywhere.
+Stateless file sync orchestrator that keeps files consistent across repositories. 587M+ ops/sec binary detection, smart diff, variable substitution, and automatic PR creation. All state derived from GitHub — zero persistence required.
 </td>
 </tr>
 <tr>
@@ -104,6 +88,22 @@ Domain-agnostic foundation kit that kills cross-service drift. One home for the 
 </td>
 <td>
 Durable job runtime that turns PostgreSQL or SQLite into a reliable work queue — no Redis, no broker, no external job server. Typed workers, a periodic scheduler, exponential-backoff retries, lease-based crash recovery, and an append-only per-run audit trail. Transactional idempotent enqueue with follow-up DAG jobs and an outbox pattern for exactly-once side effects.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/hush"><img src="https://raw.githubusercontent.com/mrz1836/hush/master/.github/images/social-image.jpeg" width="260" alt="hush" /></a>
+</td>
+<td>
+Discord-gated secrets broker for AI agents — one passphrase, no key files, no dotfiles on agent disks. Agents request short-lived, scoped sessions over Tailscale; you approve on your phone via Discord, and secrets arrive ECIES-encrypted end-to-end, injected straight into the process environment — never written to disk. Built for workflows that run untrusted code, where commodity malware greps credential files first.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/lucid"><img src="https://raw.githubusercontent.com/mrz1836/lucid/master/.github/images/share-image.png" width="260" alt="lucid" /></a>
+</td>
+<td>
+Local-first personal operating system built on a privacy-preserving split architecture. The Mirror understands your patterns, body, and memories while the Engine keeps you accountable — over one Ledger you fully own. Built from studying why every habit system fails, so on your worst day the practice costs a single sentence.
 </td>
 </tr>
 <tr>
@@ -127,41 +127,44 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 🎬 **[go-actions](https://github.com/mrz1836/go-actions)** — Typed HTTP actions with auto-generated OpenAPI 3.1 contracts
 * 📘 **[go-parameters](https://github.com/mrz1836/go-parameters)** — Easily parse incoming parameters from HTTP requests
 * 🔍 **[go-logger](https://github.com/mrz1836/go-logger)** — Easy to use, extendable and super fast logging
-* 📨 **[go-mail](https://github.com/mrz1836/go-mail)** — Email interface across SES, Postmark, Mandrill, SMTP `44★`
+* 📨 **[go-mail](https://github.com/mrz1836/go-mail)** — Email interface across SES, Postmark, Mandrill, SMTP `45★`
 * ✴️ **[go-api-gateway](https://github.com/mrz1836/go-api-gateway)** — Example using AWS API Gateway, Lambda and Go
 
 **Data & Validation**
-* 🛁 **[go-sanitize](https://github.com/mrz1836/go-sanitize)** — Robust string sanitization & normalization utilities `47★`
-* ⚡ **[go-validate](https://github.com/mrz1836/go-validate)** — Powerful struct field validation via tags
-* 🌐 **[go-countries](https://github.com/mrz1836/go-countries)** — Comprehensive country data in all ISO formats
-* 🔍 **[go-meta-extractor](https://github.com/mrz1836/go-meta-extractor)** — Meta intelligence extraction for Go
+* 🛁 **[go-sanitize](https://github.com/mrz1836/go-sanitize)** — Robust string sanitization & normalization utilities `51★`
+* ⚡ **[go-validate](https://github.com/mrz1836/go-validate)** — Powerful struct field validation via tags `7★`
+* 🌐 **[go-countries](https://github.com/mrz1836/go-countries)** — Comprehensive country data in all ISO formats `9★`
+* 🔍 **[go-meta-extractor](https://github.com/mrz1836/go-meta-extractor)** — Meta intelligence extraction for Go `6★`
 
 **Caching & Storage**
-* 📑 **[go-cache](https://github.com/mrz1836/go-cache)** — Cache dependency management on-top of redigo
+* 📑 **[go-cache](https://github.com/mrz1836/go-cache)** — Cache dependency management on-top of redigo `6★`
 * 📑 **[go-cachestore](https://github.com/mrz1836/go-cachestore)** — Simple cache access layer using Redis or FreeCache
 * 💾 **[go-datastore](https://github.com/mrz1836/go-datastore)** — Data layer using GORM for accessing models via Database
 
+**Dev Tooling & Templates**
+* 🚀 **[go-template](https://github.com/mrz1836/go-template)** — Clone-to-release Go library scaffold: table-driven tests, benchmarks, fuzz, mage-x & CI/CD pre-wired `19★`
+* 🏛️ **[go-foundation](https://github.com/mrz1836/go-foundation)** — Domain-agnostic foundation kit: typed config, middleware, pagination, repositories & observability
+
 **Third-Party SDKs**
-* 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `64★`
+* 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `72★`
 * 👨‍👩‍👦 **[go-pipl](https://github.com/mrz1836/go-pipl)** — Unofficial Pipl.com API SDK
 * 📄 **[go-pandadoc](https://github.com/mrz1836/go-pandadoc)** — Unofficial PandaDocs API SDK for Go
 * 💬 **[go-drift](https://github.com/mrz1836/go-drift)** — Unofficial Go implementation for the Drift API
 * 🐙 **[codepipeline-to-github](https://github.com/mrz1836/codepipeline-to-github)** — Update GitHub commit status via CodePipeline events
 
 **Fun & Experiments**
-* 🤫 **[hush](https://github.com/mrz1836/hush)** — Discord-gated secrets broker for AI agents
 * 🌌 **[go-lucky](https://github.com/mrz1836/go-lucky)** — Lottery analyzer with cosmic correlations & statistical wizardry
 * 💸 **[go-invoice](https://github.com/mrz1836/go-invoice)** — Fast CLI with MCP support for invoice & time tracking
 
 **Archive**
-* ⛏️ **[go-minercraft](https://github.com/tonicpow/go-minercraft)** — Interact with Bitcoin Miner APIs `14★`
+* ⛏️ **[go-minercraft](https://github.com/tonicpow/go-minercraft)** — Interact with Bitcoin Miner APIs `12★`
 * ⚓ **[docker-bitcoinsv](https://github.com/mrz1836/docker-bitcoinsv)** — Launch a Bitcoin SV node using Docker `22★`
 * 📈 **[go-bsvrates](https://github.com/tonicpow/go-bsvrates)** — Real-time BSV exchange rates with multi-provider failover `12★`
 * 🚀 **[go-api](https://github.com/mrz1836/go-api)** — Example API for inspiration on your new projects `10★`
-* 💵 **[go-moneybutton](https://github.com/tonicpow/go-moneybutton)** — Unofficial MoneyButton API implementation `5★`
+* 💵 **[go-moneybutton](https://github.com/tonicpow/go-moneybutton)** — Unofficial MoneyButton API implementation
 * 📨 **[go-ses](https://github.com/mrz1836/go-ses)** — Amazon AWS Simple Email Service client for Go
 * 🔗 **[go-customerio](https://github.com/mrz1836/go-customerio)** — Unofficial Customer.io API client
-* 🔗 **[go-preev](https://github.com/mrz1836/go-preev)** — Unofficial Preev API implementation
+* 🔗 **[go-preev](https://github.com/mrz1836/go-preev)** — Unofficial Preev API implementation `7★`
 * 🎭 **[go-polynym](https://github.com/mrz1836/go-polynym)** — Unofficial Polynym.io API implementation
 * 💽 **[go-bitindex](https://github.com/mrz1836/go-bitindex)** — Unofficial BitIndex API implementation
 * ☁️ **[go-mattercloud](https://github.com/mrz1836/go-mattercloud)** — Unofficial MatterCloud API implementation
