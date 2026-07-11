@@ -142,8 +142,8 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 💾 **[go-datastore](https://github.com/mrz1836/go-datastore)** — Data layer using GORM for accessing models via Database
 
 **Dev Tooling & Templates**
-* 🚀 **[go-template](https://github.com/mrz1836/go-template)** — Clone-to-release Go library scaffold: table-driven tests, benchmarks, fuzz, mage-x & CI/CD pre-wired `19★`
-* 🏛️ **[go-foundation](https://github.com/mrz1836/go-foundation)** — Domain-agnostic foundation kit: typed config, middleware, pagination, repositories & observability
+* 🚀 **[go-template](https://github.com/mrz1836/go-template)** — Clone-to-release Go library scaffold with tests, fuzz & CI/CD `19★`
+* 🏛️ **[go-foundation](https://github.com/mrz1836/go-foundation)** — Domain-agnostic foundation kit: config, middleware & observability
 
 **Third-Party SDKs**
 * 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `72★`
