@@ -139,6 +139,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 📘 **[go-parameters](https://github.com/mrz1836/go-parameters)** — Easily parse incoming parameters from HTTP requests
 * 🔍 **[go-logger](https://github.com/mrz1836/go-logger)** — Easy to use, extendable and super fast logging
 * 📨 **[go-mail](https://github.com/mrz1836/go-mail)** — Email interface across SES, Postmark, Mandrill, SMTP `45★`
+* 📬 **[go-instantly](https://github.com/mrz1836/go-instantly)** — Unofficial Instantly.ai API SDK (V2) for email outreach
 * ✴️ **[go-api-gateway](https://github.com/mrz1836/go-api-gateway)** — Example using AWS API Gateway, Lambda and Go
 
 **Data & Validation**
