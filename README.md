@@ -155,6 +155,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 **Dev Tooling & Templates**
 * 🚀 **[go-template](https://github.com/mrz1836/go-template)** — Clone-to-release Go library scaffold with tests, fuzz & CI/CD `19★`
 * 🏛️ **[go-foundation](https://github.com/mrz1836/go-foundation)** — Domain-agnostic foundation kit: config, middleware & observability
+* 🔄 **[go-selfupdate](https://github.com/mrz1836/go-selfupdate)** — Self-update & version notifications for Go CLIs, checksum-verified & atomic
 
 **Third-Party SDKs**
 * 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `72★`
