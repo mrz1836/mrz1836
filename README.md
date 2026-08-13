@@ -168,6 +168,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 **Fun & Experiments**
 * 🌌 **[go-lucky](https://github.com/mrz1836/go-lucky)** — Lottery analyzer with cosmic correlations & statistical wizardry
 * 💸 **[go-invoice](https://github.com/mrz1836/go-invoice)** — Fast CLI with MCP support for invoice & time tracking
+* 📋 **[gtask-extractor](https://github.com/mrz1836/gtask-extractor)** — Export every field of your Google Tasks to JSON, including hidden metadata
 
 **Archive**
 * ⛏️ **[go-minercraft](https://github.com/tonicpow/go-minercraft)** — Interact with Bitcoin Miner APIs `12★`
