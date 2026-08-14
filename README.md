@@ -132,6 +132,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 💸 **[paymail-inspector](https://github.com/mrz1836/paymail-inspector)** — CLI app for paymail service providers `48★`
 * 📮 **[go-paymail](https://github.com/bsv-blockchain/go-paymail)** — Paymail toolkit for Go with full-stack client and server support `13★`
 * 🔗 **[go-whatsonchain](https://github.com/mrz1836/go-whatsonchain)** — Unofficial WhatsOnChain API SDK `15★`
+* 🔐 **[go-tumbler](https://github.com/mrz1836/go-tumbler)** — Envelope encryption with independent keyslots: password, YubiKey, or recovery code
 
 **Web & API**
 * 🌐 **[go-api-router](https://github.com/mrz1836/go-api-router)** — Lightweight API middleware: CORS, logging, error handling
