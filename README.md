@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td><a href="https://github.com/deliverydudes"><img src="https://avatars.githubusercontent.com/u/12222596?v=4" height="25" style="border-radius:50%" alt="Delivery Dudes" /></a></td>
-<td><b><a href="https://en.wikipedia.org/wiki/Delivery_Dudes">Delivery Dudes</a></b> — Co-Founder & CTO <code>$23M Exit to Waitr</code></td>
+<td><b><a href="https://en.wikipedia.org/wiki/Delivery_Dudes">Delivery Dudes</a></b> — Co-Founder & CTO <code>Acquired by <a href="https://www.businesswire.com/news/home/20210309005651/en/Waitr-Enters-into-Asset-Purchase-Agreement-with-Delivery-Dudes">Waitr aka ASAP</a></code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/buxorg"><img src="https://avatars.githubusercontent.com/u/98559231?v=4" height="25" style="border-radius:50%" alt="BUX" /></a></td>
@@ -25,7 +25,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/tonicpow"><img src="https://avatars.githubusercontent.com/u/50292777?v=4" height="25" style="border-radius:50%" alt="TonicPow" /></a></td>
-<td><b><a href="https://github.com/tonicpow">TonicPow</a></b> — BSV Hackathon 2019 <code>2nd Place • 200+ entrants • 19 countries</code></td>
+<td><b><a href="https://tonicpow.com">TonicPow</a></b> — BSV Hackathon 2019 <code><a href="https://coingeek.com/tonicpow-bsv-hackathon-success-story-from-widget-to-promotion-marketplace/">2nd Place • 200+ entrants • 19 countries</a></code></td>
 </tr>
 <tr>
 <td><a href="https://postmarkapp.com/developer/integration/community-libraries#erlang"><img src="https://raw.githubusercontent.com/mrz1836/mrz1836/master/.github/IMAGES/postmark.png" height="25" style="border-radius:50%" alt="Postmark" /></a></td>
