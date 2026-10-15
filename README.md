@@ -168,7 +168,6 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 🏠 **[go-batchdata](https://github.com/mrz1836/go-batchdata)** — Unofficial BatchData V3 API SDK for synchronous property skip tracing
 * 🔎 **[go-enformion](https://github.com/mrz1836/go-enformion)** — Unofficial EnformionGO API SDK for contact enrichment: phones, emails & addresses
 * ✅ **[go-neverbounce](https://github.com/mrz1836/go-neverbounce)** — Unofficial NeverBounce API v4.2 SDK for single & bulk email verification
-* 🐙 **[codepipeline-to-github](https://github.com/mrz1836/codepipeline-to-github)** — Update GitHub commit status via CodePipeline events
 
 **Fun & Experiments**
 * 🌌 **[go-lucky](https://github.com/mrz1836/go-lucky)** — Lottery analyzer with cosmic correlations & statistical wizardry
@@ -176,18 +175,19 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 📋 **[gtask-extractor](https://github.com/mrz1836/gtask-extractor)** — Export every field of your Google Tasks to JSON, including hidden metadata
 
 **Archive**
-* ⛏️ **[go-minercraft](https://github.com/tonicpow/go-minercraft)** — Interact with Bitcoin Miner APIs `12★`
+* 🐙 **[codepipeline-to-github](https://github.com/mrz1836/codepipeline-to-github)** — Update GitHub commit status via CodePipeline events
 * ⚓ **[docker-bitcoinsv](https://github.com/mrz1836/docker-bitcoinsv)** — Launch a Bitcoin SV node using Docker `22★`
-* 📈 **[go-bsvrates](https://github.com/tonicpow/go-bsvrates)** — Real-time BSV exchange rates with multi-provider failover `12★`
 * 🚀 **[go-api](https://github.com/mrz1836/go-api)** — Example API for inspiration on your new projects `10★`
-* 💵 **[go-moneybutton](https://github.com/tonicpow/go-moneybutton)** — Unofficial MoneyButton API implementation
-* 📨 **[go-ses](https://github.com/mrz1836/go-ses)** — Amazon AWS Simple Email Service client for Go
-* 🔗 **[go-customerio](https://github.com/mrz1836/go-customerio)** — Unofficial Customer.io API client
-* 🔗 **[go-preev](https://github.com/mrz1836/go-preev)** — Unofficial Preev API implementation `7★`
-* 🎭 **[go-polynym](https://github.com/mrz1836/go-polynym)** — Unofficial Polynym.io API implementation
 * 💽 **[go-bitindex](https://github.com/mrz1836/go-bitindex)** — Unofficial BitIndex API implementation
+* 📈 **[go-bsvrates](https://github.com/tonicpow/go-bsvrates)** — Real-time BSV exchange rates with multi-provider failover `12★`
+* 🔗 **[go-customerio](https://github.com/mrz1836/go-customerio)** — Unofficial Customer.io API client
 * ☁️ **[go-mattercloud](https://github.com/mrz1836/go-mattercloud)** — Unofficial MatterCloud API implementation
+* ⛏️ **[go-minercraft](https://github.com/tonicpow/go-minercraft)** — Interact with Bitcoin Miner APIs `12★`
+* 💵 **[go-moneybutton](https://github.com/tonicpow/go-moneybutton)** — Unofficial MoneyButton API implementation
 * 🔗 **[go-nownodes](https://github.com/mrz1836/go-nownodes)** — Unofficial NOWNodes API implementation
+* 🎭 **[go-polynym](https://github.com/mrz1836/go-polynym)** — Unofficial Polynym.io API implementation
+* 🔗 **[go-preev](https://github.com/mrz1836/go-preev)** — Unofficial Preev API implementation `7★`
+* 📨 **[go-ses](https://github.com/mrz1836/go-ses)** — Amazon AWS Simple Email Service client for Go
 
 <br>
 
