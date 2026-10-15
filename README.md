@@ -165,6 +165,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 💬 **[go-drift](https://github.com/mrz1836/go-drift)** — Unofficial Go implementation for the Drift API
 * 📬 **[go-instantly](https://github.com/mrz1836/go-instantly)** — Unofficial Instantly.ai API SDK (V2) for email outreach
 * 🧭 **[go-discern](https://github.com/mrz1836/go-discern)** — Typed decision layer for the TypeSafe Jev & Cloudflare Clef System One APIs
+* 🏠 **[go-batchdata](https://github.com/mrz1836/go-batchdata)** — Unofficial BatchData V3 API SDK for synchronous property skip tracing
 * 🐙 **[codepipeline-to-github](https://github.com/mrz1836/codepipeline-to-github)** — Update GitHub commit status via CodePipeline events
 
 **Fun & Experiments**
