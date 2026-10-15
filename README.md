@@ -167,6 +167,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 🧭 **[go-discern](https://github.com/mrz1836/go-discern)** — Typed decision layer for the TypeSafe Jev & Cloudflare Clef System One APIs
 * 🏠 **[go-batchdata](https://github.com/mrz1836/go-batchdata)** — Unofficial BatchData V3 API SDK for synchronous property skip tracing
 * 🔎 **[go-enformion](https://github.com/mrz1836/go-enformion)** — Unofficial EnformionGO API SDK for contact enrichment: phones, emails & addresses
+* ✅ **[go-neverbounce](https://github.com/mrz1836/go-neverbounce)** — Unofficial NeverBounce API v4.2 SDK for single & bulk email verification
 * 🐙 **[codepipeline-to-github](https://github.com/mrz1836/codepipeline-to-github)** — Update GitHub commit status via CodePipeline events
 
 **Fun & Experiments**
