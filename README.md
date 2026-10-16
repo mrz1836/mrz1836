@@ -159,15 +159,16 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * 🔄 **[go-selfupdate](https://github.com/mrz1836/go-selfupdate)** — Self-update & version notifications for Go CLIs, checksum-verified & atomic
 
 **Third-Party SDKs**
-* 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `72★`
-* 👨‍👩‍👦 **[go-pipl](https://github.com/mrz1836/go-pipl)** — Unofficial Pipl.com API SDK
-* 📄 **[go-pandadoc](https://github.com/mrz1836/go-pandadoc)** — Unofficial PandaDocs API SDK for Go
-* 💬 **[go-drift](https://github.com/mrz1836/go-drift)** — Unofficial Go implementation for the Drift API
-* 📬 **[go-instantly](https://github.com/mrz1836/go-instantly)** — Unofficial Instantly.ai API SDK (V2) for email outreach
-* 🧭 **[go-discern](https://github.com/mrz1836/go-discern)** — Typed decision layer for the TypeSafe Jev & Cloudflare Clef System One APIs
 * 🏠 **[go-batchdata](https://github.com/mrz1836/go-batchdata)** — Unofficial BatchData V3 API SDK for synchronous property skip tracing
+* 🧭 **[go-discern](https://github.com/mrz1836/go-discern)** — Typed decision layer for the TypeSafe Jev & Cloudflare Clef System One APIs
+* 💬 **[go-drift](https://github.com/mrz1836/go-drift)** — Unofficial Go implementation for the Drift API
+* 📧 **[go-emailable](https://github.com/mrz1836/go-emailable)** — Unofficial Emailable API v1 SDK for single & batch email verification
 * 🔎 **[go-enformion](https://github.com/mrz1836/go-enformion)** — Unofficial EnformionGO API SDK for contact enrichment: phones, emails & addresses
+* 📬 **[go-instantly](https://github.com/mrz1836/go-instantly)** — Unofficial Instantly.ai API SDK (V2) for email outreach
 * ✅ **[go-neverbounce](https://github.com/mrz1836/go-neverbounce)** — Unofficial NeverBounce API v4.2 SDK for single & bulk email verification
+* 📄 **[go-pandadoc](https://github.com/mrz1836/go-pandadoc)** — Unofficial PandaDocs API SDK for Go
+* 👨‍👩‍👦 **[go-pipl](https://github.com/mrz1836/go-pipl)** — Unofficial Pipl.com API SDK
+* 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `72★`
 
 **Fun & Experiments**
 * 🌌 **[go-lucky](https://github.com/mrz1836/go-lucky)** — Lottery analyzer with cosmic correlations & statistical wizardry
