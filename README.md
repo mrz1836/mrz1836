@@ -160,6 +160,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 
 **Third-Party SDKs**
 * 🏠 **[go-batchdata](https://github.com/mrz1836/go-batchdata)** — Unofficial BatchData V3 API SDK for synchronous property skip tracing
+* 📮 **[go-bouncer](https://github.com/mrz1836/go-bouncer)** — Unofficial Bouncer API v1.1 SDK for real-time, batch & async email verification
 * 🧭 **[go-discern](https://github.com/mrz1836/go-discern)** — Typed decision layer for the TypeSafe Jev & Cloudflare Clef System One APIs
 * 💬 **[go-drift](https://github.com/mrz1836/go-drift)** — Unofficial Go implementation for the Drift API
 * 📧 **[go-emailable](https://github.com/mrz1836/go-emailable)** — Unofficial Emailable API v1 SDK for single & batch email verification
