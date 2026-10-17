@@ -169,6 +169,7 @@ Multi-chain cryptocurrency wallet CLI for BSV, BTC, ETH, and USDC with HD wallet
 * ✅ **[go-neverbounce](https://github.com/mrz1836/go-neverbounce)** — Unofficial NeverBounce API v4.2 SDK for single & bulk email verification
 * 📄 **[go-pandadoc](https://github.com/mrz1836/go-pandadoc)** — Unofficial PandaDocs API SDK for Go
 * 👨‍👩‍👦 **[go-pipl](https://github.com/mrz1836/go-pipl)** — Unofficial Pipl.com API SDK
+* 🔎 **[go-serper](https://github.com/mrz1836/go-serper)** — Unofficial Serper API SDK for web search, image search & page scrape
 * 📧 **[postmark](https://github.com/mrz1836/postmark)** — Unofficial Golang library for the Postmark API `72★`
 
 **Fun & Experiments**
