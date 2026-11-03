@@ -52,18 +52,10 @@ AI-assisted development platform using spec-driven development with checkpoint a
 </tr>
 <tr>
 <td width="280">
-<a href="https://github.com/mrz1836/mage-x"><img src="https://raw.githubusercontent.com/mrz1836/mage-x/master/.github/images/share-image.png" width="260" alt="mage-x" /></a>
+<a href="https://github.com/mrz1836/go-broadcast"><img src="https://raw.githubusercontent.com/mrz1836/go-broadcast/master/.github/images/share-image.png" width="260" alt="go-broadcast" /></a>
 </td>
 <td>
-190+ professional build commands, zero configuration. Drop-in Mage replacement that auto-detects your project structure and just works — single binary, multi-binary, or library. Cross-platform builds with CPU-aware optimization and professional release tooling.
-</td>
-</tr>
-<tr>
-<td width="280">
-<a href="https://github.com/mrz1836/go-fortress"><img src="https://raw.githubusercontent.com/mrz1836/go-fortress/master/.github/IMAGES/share-image.png" width="260" alt="go-fortress" /></a>
-</td>
-<td>
-Enterprise CI/CD fortress with 14+ parallel jobs that complete in 2-3 minutes. 18 specialized workflows for security scanning, 60+ linters, race detection, and coverage intelligence with 90-day history. 225+ configurable parameters, zero YAML editing.
+Stateless file sync orchestrator that keeps files consistent across repositories. 587M+ ops/sec binary detection, smart diff, variable substitution, and automatic PR creation. All state derived from GitHub — zero persistence required.
 </td>
 </tr>
 <tr>
@@ -76,26 +68,26 @@ Self-hosted Codecov replacement that runs entirely in your CI/CD pipeline. SVG b
 </tr>
 <tr>
 <td width="280">
-<a href="https://github.com/mrz1836/go-pre-commit"><img src="https://raw.githubusercontent.com/mrz1836/go-pre-commit/master/.github/images/share-image.png" width="260" alt="go-pre-commit" /></a>
-</td>
-<td>
-Pure Go pre-commit hooks that are 17x faster than Python-based alternatives. Six parallel built-in checks with auto-fix and auto-staging — sub-second processing for complete commit workflows. Plugin system for custom checks in any language.
-</td>
-</tr>
-<tr>
-<td width="280">
-<a href="https://github.com/mrz1836/go-broadcast"><img src="https://raw.githubusercontent.com/mrz1836/go-broadcast/master/.github/images/share-image.png" width="260" alt="go-broadcast" /></a>
-</td>
-<td>
-Stateless file sync orchestrator that keeps files consistent across repositories. 587M+ ops/sec binary detection, smart diff, variable substitution, and automatic PR creation. All state derived from GitHub — zero persistence required.
-</td>
-</tr>
-<tr>
-<td width="280">
 <a href="https://github.com/mrz1836/go-flywheel"><img src="https://raw.githubusercontent.com/mrz1836/go-flywheel/master/.github/IMAGES/share-image.png" width="260" alt="go-flywheel" /></a>
 </td>
 <td>
 Durable job runtime that turns PostgreSQL or SQLite into a reliable work queue — no Redis, no broker, no external job server. Typed workers, a periodic scheduler, exponential-backoff retries, lease-based crash recovery, and an append-only per-run audit trail. Transactional idempotent enqueue with follow-up DAG jobs and an outbox pattern for exactly-once side effects.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/go-fortress"><img src="https://raw.githubusercontent.com/mrz1836/go-fortress/master/.github/IMAGES/share-image.png" width="260" alt="go-fortress" /></a>
+</td>
+<td>
+Enterprise CI/CD fortress with 14+ parallel jobs that complete in 2-3 minutes. 18 specialized workflows for security scanning, 60+ linters, race detection, and coverage intelligence with 90-day history. 225+ configurable parameters, zero YAML editing.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/go-pre-commit"><img src="https://raw.githubusercontent.com/mrz1836/go-pre-commit/master/.github/images/share-image.png" width="260" alt="go-pre-commit" /></a>
+</td>
+<td>
+Pure Go pre-commit hooks that are 17x faster than Python-based alternatives. Six parallel built-in checks with auto-fix and auto-staging — sub-second processing for complete commit workflows. Plugin system for custom checks in any language.
 </td>
 </tr>
 <tr>
@@ -112,6 +104,22 @@ Discord-gated secrets broker for AI agents — one passphrase, no key files, no 
 </td>
 <td>
 Local-first personal operating system built on a privacy-preserving split architecture. The Mirror understands your patterns, body, and memories while the Engine keeps you accountable — over one Ledger you fully own. Built from studying why every habit system fails, so on your worst day the practice costs a single sentence.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/mage-x"><img src="https://raw.githubusercontent.com/mrz1836/mage-x/master/.github/images/share-image.png" width="260" alt="mage-x" /></a>
+</td>
+<td>
+190+ professional build commands, zero configuration. Drop-in Mage replacement that auto-detects your project structure and just works — single binary, multi-binary, or library. Cross-platform builds with CPU-aware optimization and professional release tooling.
+</td>
+</tr>
+<tr>
+<td width="280">
+<a href="https://github.com/mrz1836/mixtape"><img src="https://raw.githubusercontent.com/mrz1836/mixtape/master/.github/images/share-image.png" width="260" alt="mixtape" /></a>
+</td>
+<td>
+Educational macOS CLI that records what the Spotify desktop app plays into tagged, per-song M4A files — no accounts, no API keys. Every song is cut from a continuous capture to within milliseconds; songs already in your library are skipped and incomplete ones re-recorded. Core Audio process tap or BlackHole, unattended playlist runs, and NDJSON events for agents and scripts.
 </td>
 </tr>
 <tr>
