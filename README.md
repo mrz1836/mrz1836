@@ -124,6 +124,14 @@ Educational macOS CLI that records what the Spotify desktop app plays into tagge
 </tr>
 <tr>
 <td width="280">
+<a href="https://github.com/mrz1836/nilbox"><img src="https://raw.githubusercontent.com/mrz1836/nilbox/master/.github/images/share-image.png" width="260" alt="nilbox" /></a>
+</td>
+<td>
+Your GitHub inbox, set to nil. Local-first macOS app that folds hundreds of repos into one focused inbox — review requests, your PRs, and assignments, minus the noise. Snooze, dismiss, or pin without GitHub ever knowing, and one click hands any PR or issue to Claude Code in the right clone, worktree, and prompt. Empty every list and it throws you a party.
+</td>
+</tr>
+<tr>
+<td width="280">
 <a href="https://github.com/mrz1836/sigil"><img src="https://raw.githubusercontent.com/mrz1836/sigil/master/.github/images/share-image.png" width="260" alt="sigil" /></a>
 </td>
 <td>
